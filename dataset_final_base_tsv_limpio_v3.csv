@@ -1,0 +1,804 @@
+semana,area_noticia,actor_especifico,tipo_actor,titular_limpio,url,tipo_fuente
+1.0,Modelos de IA,OpenAI,Empresa tecnológica,ChatGPT4o y más herramientas,https://openai.com/index/gpt-4o-and-m...,Blog corporativo
+1.0,Modelos de IA,Google,Empresa tecnológica,Google Gemini AI Update,https://blog.google/technology/google...,Blog corporativo
+1.0,Otro,Otro,Otro,GCJCG2,https://acortar.link/GCJCG2,Web / Medio digital
+1.0,Redes sociales,X/Twitter,Plataforma social,BTibor91 en X,https://x.com/btibor91/status/1873391...,Red social
+1.0,Producto,OpenAI,Empresa tecnológica,Introducing OpenAI O1 Preview,https://openai.com/index/introducing-...,Blog corporativo
+1.0,Otro,Otro,Otro,Deepseek,https://www.deepseek.com/,Web / Medio digital
+1.0,Modelos de IA,Otro,Otro,Deepseek Modelo V3,https://chat.deepseek.com/,Web / Medio digital
+1.0,Redes sociales,X/Twitter,Plataforma social,Kimmonismus en X,https://x.com/kimmonismus/status/1873...,Red social
+1.0,Redes sociales,OpenAI,Empresa tecnológica,Presentación SORA: • Introducing Sora — OpenAI’s text-to-video ...,,Otro
+1.0,Otro,Google,Empresa tecnológica,VEO 2 de Google,https://x.com/LinusEkenstam/status/18...,Red social
+1.0,Modelos de IA,OpenAI,Empresa tecnológica,BBVA y GPTs,https://acortar.link/nUjuw4,Web / Medio digital
+1.0,Otro,Otro,Otro,Nvidia Rubin Chip,https://acortar.link/jGFDPj,Web / Medio digital
+1.0,Otro,Otro,Otro,Runway Video: • AI Will Smith eating spaghetti pasta (AI f...,,Otro
+1.0,Investigación,Meta,Empresa tecnológica,Meta Research Movie-Gen,https://ai.meta.com/research/movie-gen/,Web / Medio digital
+1.0,Redes sociales,Google,Empresa tecnológica,VEO2 de Google en X,https://x.com/LinusEkenstam/status/18...,Red social
+1.0,Otro,Otro,Otro,Taylor Swift Deepfake,https://edition.cnn.com/2024/01/25/te...,Web / Medio digital
+1.0,Otro,Otro,Otro,Biden Deepfake en BBC,https://www.bbc.com/news/world-us-can...,Web / Medio digital
+1.0,Otro,Otro,Otro,EMO Deepfake de Alibaba,https://humanaigc.github.io/emote-por...,Web / Medio digital
+1.0,Otro,Microsoft,Empresa tecnológica,VASA 1 de Microsoft,https://www.microsoft.com/en-us/resea...,Web / Medio digital
+1.0,Otro,Otro,Otro,Hedra App,https://www.hedra.com/app/characters,Web / Medio digital
+1.0,Otro,Otro,Otro,Ferrari Deepfake Scam,https://acortar.link/tDcos3,Web / Medio digital
+1.0,Otro,Otro,Otro,Deepfake Scam en Hong Kong,https://acortar.link/8c5aXw,Web / Medio digital
+1.0,Regulación,Otro,Otro,AI Act Europeo,https://digital-strategy.ec.europa.eu...,Web / Medio digital
+1.0,Otro,Otro,Otro,SB1047 en California,https://acortar.link/WLL4AG,Web / Medio digital
+1.0,Modelos de IA,OpenAI,Empresa tecnológica,Caso Raw Media vs ChatGPT,https://acortar.link/eWL3dN,Web / Medio digital
+1.0,Otro,Otro,Otro,White House Memorandum,https://acortar.link/zQOEqx,Web / Medio digital
+1.0,Otro,Otro,Otro,USCC Annual Report,https://acortar.link/J0tNk3,Web / Medio digital
+1.0,Investigación,Anthropic,Empresa tecnológica,Anthropic Research,https://www.anthropic.com/research,Web / Medio digital
+1.0,Otro,Otro,Otro,Devin AI,https://devin.ai/,Web / Medio digital
+3.0,Otro,X/Twitter,Plataforma social,"Presentación de OMI, el wearable de Nik Shevchenko",https://x.com/kodjima33/status/187701...,Red social
+3.0,Redes sociales,X/Twitter,Plataforma social,"Project R2X, el ‘Clippy’ moderno de Nvidia",https://x.com/ai_for_success/status/1...,Red social
+3.0,Otro,Otro,Otro,Lenovo entra a la robótica con Daystar,https://acortar.link/zuW3Q5,Web / Medio digital
+3.0,Otro,Otro,Otro,VLC presenta su IA local y open source para subtítulos,https://acortar.link/uUowuI,Web / Medio digital
+3.0,Otro,Otro,Otro,Robot humanoide con ‘piel más suave’,https://acortar.link/e9aZan,Web / Medio digital
+3.0,Otro,X/Twitter,Plataforma social,Robot que camina de forma muy real,https://x.com/DrJimFan/status/1877387...,Red social
+3.0,Otro,Otro,Otro,Bancos planean recortar 200k empleos con IA,https://finance.yahoo.com/news/wall-s...,Web / Medio digital
+3.0,Otro,X/Twitter,Plataforma social,Elon Musk anuncia GROK en Teslas,https://x.com/ns123abc/status/1876709...,Red social
+3.0,Otro,OpenAI,Empresa tecnológica,OpenAI recluta para su división de robótica,https://acortar.link/UYFm96,Web / Medio digital
+3.0,Modelos de IA,OpenAI,Empresa tecnológica,Ametralladora controlada por ChatGPT,https://acortar.link/zL2Fxo,Web / Medio digital
+3.0,Modelos de IA,Microsoft,Empresa tecnológica,Modelo Phi-4 de Microsoft en Hugging Face,https://huggingface.co/microsoft/phi-4,Web / Medio digital
+3.0,Otro,Otro,Otro,"Chat Qwen, la alternativa de Alibaba",https://chat.qwenlm.ai/,Web / Medio digital
+3.0,Redes sociales,Otro,Otro,Transpixar de Adobe para video con transparencias,https://acortar.link/id9spF,Web / Medio digital
+3.0,Otro,Otro,Otro,SVFR de Tencent para restauración de video,https://wangzhiyaoo.github.io/SVFR/,Web / Medio digital
+3.0,Otro,Otro,Otro,Primera peli de Hollywood doblada con IA,https://acortar.link/SLlCAM,Web / Medio digital
+3.0,Otro,Otro,Otro,Inversión de DAMAC Data Centers en EE.UU.,https://acortar.link/y4uyNA,Web / Medio digital
+3.0,Modelos de IA,Anthropic,Empresa tecnológica,Proyecto de conservación con Claude (Anthropic),https://www.anthropic.com/customers/u...,Web / Medio digital
+3.0,Investigación,Otro,Otro,Paper sobre el olvido en IA,https://arxiv.org/pdf/2501.04952,Web / Medio digital
+3.0,Modelos de IA,Otro,Otro,Modelo MUSK de Stanford contra el cáncer,https://acortar.link/ppNYdP,Web / Medio digital
+4.0,Otro,Microsoft,Empresa tecnológica,Microsoft lanza Copilot Chat gratis para usuarios de 365,https://www.microsoft.com/en-us/micro...,Web / Medio digital
+4.0,Otro,Microsoft,Empresa tecnológica,Acceso a Copilot Chat en la nube de Microsoft,https://m365.cloud.microsoft/chat,Web / Medio digital
+4.0,Otro,Microsoft,Empresa tecnológica,Copilot Advanced ahora incluido en planes 365 Personal y Familiar,https://acortar.link/RbSode,Web / Medio digital
+4.0,Otro,Microsoft,Empresa tecnológica,Mayo Clinic y Microsoft entrenan IA para informes médicos,https://acortar.link/bob0lB,Web / Medio digital
+4.0,Modelos de IA,OpenAI,Empresa tecnológica,OpenAI lanza Tasks para ChatGPT,https://x.com/OpenAI/status/187926727...,Red social
+4.0,Otro,Otro,Otro,Superagentes: Sam Altman se reúne con el gobierno de EE.UU.,https://www.axios.com/2025/01/19/ai-s...,Web / Medio digital
+4.0,Otro,Google,Empresa tecnológica,Google NotebookLM recibe mejoras,https://acortar.link/3qK1uB,Web / Medio digital
+4.0,Otro,Google,Empresa tecnológica,Nueva interfaz móvil de AI Studio de Google,https://acortar.link/dCuvoM,Web / Medio digital
+4.0,Otro,Otro,Otro,Boardy IA capta inversores con su propia demo,https://t.co/Zf6pbd96P2,Web / Medio digital
+4.0,Modelos de IA,Otro,Otro,Kokoro TTS: modelo de voz realista con 80M de parámetros,https://huggingface.co/spaces/hexgrad...,Web / Medio digital
+4.0,Otro,Otro,Otro,Repositorio de Kokoro en Hugging Face,https://huggingface.co/hexgrad/Kokoro...,Web / Medio digital
+4.0,Modelos de IA,Otro,Otro,MiniCPM: modelo multimodal open source con 8.000M de parámetros,https://github.com/OpenBMB/MiniCPM-o,Web / Medio digital
+4.0,Redes sociales,Otro,Otro,Ley de Biden para restringir exportaciones de chips,https://acortar.link/Eha2HT,Web / Medio digital
+4.0,Redes sociales,Otro,Otro,Nvidia critica las restricciones de exportación de chips,https://blogs.nvidia.com/blog/ai-policy/,Blog corporativo
+4.0,Otro,Otro,Otro,Oracle rechaza la ley de chips de Biden,https://acortar.link/ppAVRC,Web / Medio digital
+4.0,Otro,Otro,Otro,Reino Unido presenta su AI Action Plan,https://acortar.link/4OjayN,Web / Medio digital
+4.0,Otro,Otro,Otro,50 recomendaciones para impulsar la IA en Reino Unido,https://acortar.link/9VcUnI,Web / Medio digital
+4.0,Otro,Otro,Otro,Informe del Foro Económico Mundial 2025 sobre el Futuro del Trabajo,https://reports.weforum.org/docs/WEF_...,Web / Medio digital
+5.0,Otro,Otro,Otro,IA francesa “LUCIE”,https://www.pediavenir.fr/la-nouvelle...,Web / Medio digital
+5.0,Otro,Otro,Otro,ALIA España,https://alia.gob.es/?s=08,Web / Medio digital
+5.0,Otro,Otro,Otro,PDF de presentación,https://acrobat.adobe.com/id/urn:aaid...,Web / Medio digital
+5.0,Otro,Otro,Otro,Kit ALIA,https://langtech-bsc.gitbook.io/alia-kit,Web / Medio digital
+5.0,Otro,OpenAI,Empresa tecnológica,Stargate Venture (OpenAI-Softbank-Oracle),https://acortar.link/wgSSC7,Web / Medio digital
+5.0,Otro,Otro,Otro,Deepseek Chat,https://chat.deepseek.com/,Web / Medio digital
+5.0,Otro,Google,Empresa tecnológica,Deepseek Android,https://play.google.com/store/apps/de...,Blog corporativo
+5.0,Otro,Otro,Otro,Deepseek iOS,https://apps.apple.com/us/app/deepsee...,Web / Medio digital
+5.0,Otro,Otro,Otro,Hilo sobre Deepseek (1),https://acortar.link/4BMcJZ,Web / Medio digital
+5.0,Otro,X/Twitter,Plataforma social,Hilo sobre Deepseek (2),https://x.com/JJitsev/status/18831587...,Red social
+5.0,Otro,Otro,Otro,Deepseek Huggingface,https://huggingface.co/deepseek-ai/De...,Web / Medio digital
+5.0,Investigación,OpenAI,Empresa tecnológica,Paper OpenAI (robustness),https://acortar.link/0AZ1Ns,Web / Medio digital
+5.0,Otro,Otro,Otro,Futuro agente programador (The Information),https://acortar.link/pbzPIG,Web / Medio digital
+5.0,Investigación,Otro,Otro,Paper de Harvard (IA en educación),https://www.researchsquare.com/articl...,Web / Medio digital
+5.0,Otro,Meta,Empresa tecnológica,Meta hardware (Ray-Ban y más),https://acortar.link/bdraGL,Web / Medio digital
+5.0,Otro,Google,Empresa tecnológica,Tweet Project Astra (Google DeepMind): francesa “LUCIE”,https://acortar.link/EktPKwIA,Web / Medio digital
+5.0,Otro,Otro,Otro,ALIA España,https://alia.gob.es/?s=08,Web / Medio digital
+5.0,Otro,Otro,Otro,PDF de presentación,https://acrobat.adobe.com/id/urn:aaid...,Web / Medio digital
+5.0,Otro,Otro,Otro,Kit ALIA,https://langtech-bsc.gitbook.io/alia-kit,Web / Medio digital
+5.0,Otro,OpenAI,Empresa tecnológica,Stargate Venture (OpenAI-Softbank-Oracle),https://acortar.link/wgSSC7,Web / Medio digital
+5.0,Otro,Otro,Otro,Deepseek Chat,https://chat.deepseek.com/,Web / Medio digital
+5.0,Otro,Google,Empresa tecnológica,Deepseek Android,https://play.google.com/store/apps/de...,Blog corporativo
+5.0,Otro,Otro,Otro,Deepseek iOS,https://apps.apple.com/us/app/deepsee...,Web / Medio digital
+5.0,Otro,Otro,Otro,Hilo sobre Deepseek (1),https://acortar.link/4BMcJZ,Web / Medio digital
+5.0,Otro,X/Twitter,Plataforma social,Hilo sobre Deepseek (2),https://x.com/JJitsev/status/18831587...,Red social
+5.0,Otro,Otro,Otro,Deepseek Huggingface,https://huggingface.co/deepseek-ai/De...,Web / Medio digital
+5.0,Investigación,OpenAI,Empresa tecnológica,Paper OpenAI (robustness),https://acortar.link/0AZ1Ns,Web / Medio digital
+5.0,Otro,Otro,Otro,Futuro agente programador (The Information),https://acortar.link/pbzPIG,Web / Medio digital
+5.0,Investigación,Otro,Otro,Paper de Harvard (IA en educación),https://www.researchsquare.com/articl...,Web / Medio digital
+5.0,Otro,Meta,Empresa tecnológica,Meta hardware (Ray-Ban y más),https://acortar.link/bdraGL,Web / Medio digital
+5.0,Otro,Google,Empresa tecnológica,Tweet Project Astra (Google DeepMind),https://acortar.link/EktPKw,Web / Medio digital
+6.0,Otro,OpenAI,Empresa tecnológica,O3 Mini,https://openai.com/index/openai-o3-mini/,Blog corporativo
+6.0,Investigación,X/Twitter,Plataforma social,Deep Research tweet,https://x.com/sama/status/18856016236...,Red social
+6.0,Investigación,OpenAI,Empresa tecnológica,Deep Research,https://openai.com/index/introducing-...,Blog corporativo
+6.0,Investigación,Otro,Otro,Demo Deep Research,https://acortar.link/DPZE43,Web / Medio digital
+6.0,Investigación,X/Twitter,Plataforma social,Benchmark HLE,https://x.com/sama/status/18862221892...,Red social
+6.0,Modelos de IA,OpenAI,Empresa tecnológica,ChatGPT crecimiento,https://acortar.link/aUylYz,Web / Medio digital
+6.0,Regulación,OpenAI,Empresa tecnológica,Europa en vivo,https://x.com/OpenAI/status/188504499...,Red social
+6.0,Otro,Otro,Otro,Hardware móvil (Japón),https://acortar.link/rkywgy,Web / Medio digital
+6.0,Otro,Otro,Otro,IA CRYSTAL,https://acortar.link/1pDZry,Web / Medio digital
+6.0,Otro,Otro,Otro,Ensayo DeepSeek,https://darioamodei.com/on-deepseek-a...,Web / Medio digital
+6.0,Otro,Otro,Otro,Italia bloquea DeepSeek,https://acortar.link/2La79v,Web / Medio digital
+6.0,Otro,Otro,Otro,Irlanda investiga DeepSeek,https://acortar.link/2qjBst,Web / Medio digital
+6.0,Otro,Otro,Otro,Ley IA EE. UU.,https://acortar.link/litGWb,Web / Medio digital
+6.0,Otro,Otro,Otro,Alibaba Qwen2.5-VL,https://qwenlm.github.io/blog/qwen2.5...,Blog corporativo
+6.0,Otro,Otro,Otro,Tweet: Conciencia IA,https://acortar.link/QuDkzi,Web / Medio digital
+6.0,Otro,Otro,Otro,Informe IA 2025,https://acortar.link/DT14Zy,Web / Medio digital
+6.0,Otro,Meta,Empresa tecnológica,Meta asistente,https://acortar.link/sZHKBk,Web / Medio digital
+6.0,Otro,Otro,Otro,DeepSeek en Azure,https://acortar.link/m8zJEA,Web / Medio digital
+6.0,Otro,Otro,Otro,DeepSeek en AWS,https://acortar.link/puumv0,Web / Medio digital
+6.0,Otro,Google,Empresa tecnológica,Google llamadas IA,https://x.com/dozenrose/status/188500...,Red social
+6.0,Otro,OpenAI,Empresa tecnológica,OpenAI en DC,https://www.axios.com/2025/01/31/open...,Web / Medio digital
+6.0,Otro,Otro,Otro,Altman DC tweet,https://acortar.link/PT3hXs,Web / Medio digital
+6.0,Otro,Otro,Otro,Copyright IA,https://acortar.link/mBClDx,Web / Medio digital
+6.0,Investigación,Otro,Otro,Paper retina género,https://philarchive.org/archive/TAHGPF,Web / Medio digital
+6.0,Otro,Otro,Otro,Time: Futuro IA,https://time.com/6273743/thinking-tha...,Web / Medio digital
+7.0,Modelos de IA,Google,Empresa tecnológica,Google Gemini Update,https://blog.google/technology/google...,Blog corporativo
+7.0,Investigación,Otro,Otro,MMLU Pro Benchmark (GitHub),https://github.com/TIGER-AI-Lab/MMLU-Pro,Web / Medio digital
+7.0,Investigación,Otro,Otro,Benchmark Dashboard,https://epoch.ai/data/ai-benchmarking...,Web / Medio digital
+7.0,Otro,Otro,Otro,LMsys Arena Pricing,https://lmarena.ai/?price,Web / Medio digital
+7.0,Otro,X/Twitter,Plataforma social,DynamicWebPaige Tweet,https://x.com/DynamicWebPaige/status/...,Red social
+7.0,Modelos de IA,OpenAI,Empresa tecnológica,Sync Video (YouTube): • 来日中のOpen AI サム・アルトマン CEOに、「GPT6の未来」「開発中のAI...,,Otro
+7.0,Negocio / Inversión,OpenAI,Empresa tecnológica,SoftBank-OpenAI Investment,https://www.theinformation.com/briefi...,Web / Medio digital
+7.0,Investigación,OpenAI,Empresa tecnológica,Deep Research Launch,https://openai.com/index/introducing-...,Blog corporativo
+7.0,Redes sociales,X/Twitter,Plataforma social,Humanitys Last Exam Tweet (DeryaTR_),https://x.com/DeryaTR_/status/1886930...,Red social
+7.0,Redes sociales,Otro,Otro,Humanitys Last Exam Tweet (Blader),https://acortar.link/K1K89w,Web / Medio digital
+7.0,Investigación,Otro,Otro,Nature Article on Deep Research,https://www.nature.com/articles/d4158...,Web / Medio digital
+7.0,Otro,OpenAI,Empresa tecnológica,OpenAI Agent Video (YouTube): • LIVE: Softbank and OpenAI pitch AI for bus...,,Otro
+7.0,Otro,OpenAI,Empresa tecnológica,OpenAI Agent Video (Japanese): • OpenAIとソフトバンクグループ、Arm、ソフトバンクによる法人向け特別イベント「...,,Otro
+7.0,Investigación,Anthropic,Empresa tecnológica,Anthropic Classifiers Paper,https://www.anthropic.com/research/co...,Web / Medio digital
+7.0,Modelos de IA,Anthropic,Empresa tecnológica,Claude Classifiers Info,https://claude.ai/constitutional-clas...,Web / Medio digital
+7.0,Otro,Anthropic,Empresa tecnológica,Anthropic Hack Challenge Tweet,https://x.com/janleike,Red social
+7.0,Otro,Otro,Otro,OmniHuman Lab,https://omnihuman-lab.github.io/,Web / Medio digital
+7.0,Otro,Otro,Otro,Brett Adcock Tweet,https://acortar.link/dhlw1p,Web / Medio digital
+7.0,Otro,Otro,Otro,Replit Programming App Tweet,https://acortar.link/VGMjeJ,Web / Medio digital
+7.0,Otro,X/Twitter,Plataforma social,Learn Burmese App Tweet,https://x.com/edleonklinger/status/18...,Red social
+7.0,Otro,OpenAI,Empresa tecnológica,OpenAI & CSU Collaboration,https://openai.com/index/openai-and-t...,Blog corporativo
+7.0,Modelos de IA,Otro,Otro,EU Open Source Models,https://openeurollm.eu/,Web / Medio digital
+7.0,Otro,Otro,Otro,ALIA Kit,https://langtech-bsc.gitbook.io/alia-kit,Web / Medio digital
+7.0,Otro,Otro,Otro,Mistral Le Chat Demo,https://chat.mistral.ai/chat,Web / Medio digital
+7.0,Investigación,Otro,Otro,AlphaGeometry2 Paper,https://arxiv.org/pdf/2502.03544,Web / Medio digital
+7.0,Investigación,Otro,Otro,Lancet Cancer Study,https://acortar.link/5re84Q,Web / Medio digital
+8.0,Otro,X/Twitter,Plataforma social,Hoja de Ruta Sam,https://x.com/sama/status/18897557230...,Red social
+8.0,Modelos de IA,OpenAI,Empresa tecnológica,Actualización GPT,https://x.com/sama/status/18897572674...,Red social
+8.0,Otro,X/Twitter,Plataforma social,Actualización Elon,https://x.com/elonmusk/status/1890958...,Red social
+8.0,Otro,Anthropic,Empresa tecnológica,Noticias Anthropic,https://www.theinformation.com/articl...,Web / Medio digital
+8.0,Modelos de IA,OpenAI,Empresa tecnológica,Actualización ChatGPT,https://x.com/sama/status/18908167828...,Red social
+8.0,Modelos de IA,Google,Empresa tecnológica,Lanzamiento Gemini,https://x.com/GeminiApp/status/189013...,Red social
+8.0,Otro,OpenAI,Empresa tecnológica,Función OpenAI,https://acortar.link/XvGujt,Web / Medio digital
+8.0,Otro,Otro,Otro,Cumbre París: link,https://goo.su/cVcZZ8,Web / Medio digital
+8.0,Otro,X/Twitter,Plataforma social,Tweett Tegmark,https://x.com/tegmark/status/18889029...,Red social
+8.0,Otro,X/Twitter,Plataforma social,Tweet Bengio,https://x.com/Yoshua_Bengio/status/18...,Red social
+8.0,Otro,X/Twitter,Plataforma social,Tweet Anto,https://x.com/antoguerrera/status/188...,Red social
+8.0,Otro,Otro,Otro,Declaración Macron,https://goo.su/fiUcVQ,Web / Medio digital
+8.0,Otro,Otro,Otro,Oferta Musk,https://techcrunch.com/2025/02/10/elo...,Web / Medio digital
+8.0,Otro,X/Twitter,Plataforma social,Respuesta Sam,https://x.com/sama/status/18890595316...,Red social
+8.0,Redes sociales,Otro,Otro,Demo Perplexity,https://goo.su/PWWKf,Web / Medio digital
+8.0,Otro,Google,Empresa tecnológica,Documento IA,https://drive.google.com/file/d/1QAzS...,Blog corporativo
+8.0,Otro,Otro,Otro,Olimpiadas O3,https://arxiv.org/pdf/2502.06807,Web / Medio digital
+8.0,Otro,Otro,Otro,Video Peluquería,https://goo.su/tpJ0WY,Web / Medio digital
+8.0,Otro,Otro,Otro,Video Escuela,https://acortar.link/Na7x5b,Web / Medio digital
+9.0,Redes sociales,X/Twitter,Plataforma social,HELIX IA de FIGURE en acción,https://x.com/Figure_robot/status/189...,Red social
+9.0,Redes sociales,Otro,Otro,"Presentación de Helix, la nueva IA",https://www.figure.ai/news/helix,Web / Medio digital
+9.0,Otro,X/Twitter,Plataforma social,Demo de robots colaborando,https://x.com/adcock_brett/status/189...,Red social
+9.0,Redes sociales,Otro,Otro,Anuncio 1X Tech en robótica,https://acortar.link/9ZxRdg,Web / Medio digital
+9.0,Otro,Otro,Otro,"NEO GAMMA, robot doméstico mejorado",https://www.1x.tech/discover/introduc...,Web / Medio digital
+9.0,Redes sociales,Otro,Otro,Actualización 1X: robots en acción,https://acortar.link/94EN05,Web / Medio digital
+9.0,Otro,X/Twitter,Plataforma social,Opinión de Sebastien Bubeck sobre GROK,https://x.com/SebastienBubeck/status/...,Red social
+9.0,Redes sociales,X/Twitter,Plataforma social,Ajuste de suscripciones en X,https://x.com/i/premium_tier_switch,Red social
+9.0,Otro,Otro,Otro,"Demo de asistente de voz, primera parte",https://acortar.link/dBp1y2,Web / Medio digital
+9.0,Otro,Otro,Otro,"Demo de asistente de voz, segunda parte",https://acortar.link/wqzmBG,Web / Medio digital
+9.0,Otro,Otro,Otro,JACE AI para emails en Gmail,https://www.jace.ai/,Web / Medio digital
+9.0,Modelos de IA,Otro,Otro,Paper LLM programador millonario,https://arxiv.org/abs/2502.12115,Web / Medio digital
+9.0,Modelos de IA,OpenAI,Empresa tecnológica,Filtración: GPT-4.5 y posible GPT-5,https://acortar.link/uTRVHT,Web / Medio digital
+9.0,Otro,Otro,Otro,Trae AI para programar con IA,https://www.trae.ai/,Web / Medio digital
+9.0,Otro,X/Twitter,Plataforma social,Elevenlabs y Spotify en colaboración,https://x.com/elevenlabsio/status/189...,Red social
+9.0,Otro,Otro,Otro,Humane AI Pin vendido a Apple,https://www.bloomberg.com/news/articl...,Web / Medio digital
+9.0,Otro,Otro,Otro,Nanomaterial revolucionario con IA,https://acortar.link/9rimDX,Web / Medio digital
+9.0,Otro,Google,Empresa tecnológica,Google Co-Scientist: acelerando la ciencia,https://acortar.link/n8xW93,Web / Medio digital
+9.0,Otro,Otro,Otro,"EVO2, IA aplicada a genética",https://arcinstitute.org/news/blog/evo2,Blog corporativo
+9.0,Otro,Otro,Otro,Reducción en el Instituto de Seguridad IA,https://acortar.link/OgTGQo,Web / Medio digital
+9.0,Redes sociales,Otro,Otro,Experimento de IA en ajedrez,https://acortar.link/LuMuvS,Web / Medio digital
+,Modelos de IA,Anthropic,Empresa tecnológica,Claude 3.7 Sonnet,https://www.anthropic.com/news/claude...,Web / Medio digital
+,Investigación,Otro,Otro,Benchmark Dashboard,https://epoch.ai/data/ai-benchmarking...,Web / Medio digital
+,Otro,Otro,Otro,Sesame,https://www.sesame.com/research/cross...,Web / Medio digital
+,Modelos de IA,Anthropic,Empresa tecnológica,Twitch - Claude Plays Pokemon: / claudeplayspokemon,,Otro
+,Modelos de IA,Anthropic,Empresa tecnológica,Twitter - Claude Pokemon Chat,https://acortar.link/mQOwrb,Web / Medio digital
+,Modelos de IA,OpenAI,Empresa tecnológica,ChatGPT Conversación Ejemplo,https://chatgpt.com/c/67c395bf-a228-8...,Web / Medio digital
+,Modelos de IA,OpenAI,Empresa tecnológica,GPT-4.5 Presentación,https://openai.com/index/introducing-...,Blog corporativo
+,Investigación,Otro,Otro,Artificial Analysis Benchmarks,https://artificialanalysis.ai/,Web / Medio digital
+,Otro,OpenAI,Empresa tecnológica,OpenAI API Pricing,https://openai.com/api/pricing/,Blog corporativo
+,Investigación,OpenAI,Empresa tecnológica,OpenAI Deep Research,https://acortar.link/TAiFfD,Web / Medio digital
+,Otro,OpenAI,Empresa tecnológica,OpenAI Voz Avanzada Gratis,https://x.com/OpenAI/status/189449590...,Red social
+,Regulación,OpenAI,Empresa tecnológica,SORA en Europa,https://x.com/OpenAI/status/189535352...,Red social
+,Otro,Otro,Otro,Grok Oficial,https://grok.com/,Web / Medio digital
+,Redes sociales,Otro,Otro,Alexa+ Reserva Demo,https://acortar.link/cvHPRr,Web / Medio digital
+,Redes sociales,X/Twitter,Plataforma social,Alexa+ Recetas Demo,https://x.com/panos_panay/status/1895...,Red social
+,Redes sociales,Otro,Otro,Amazon Alexa+ Noticias,https://acortar.link/q5W9ge,Web / Medio digital
+,Redes sociales,Otro,Otro,Amazon Alexa+ Video: • Meet the new Alexa,,Otro
+,Modelos de IA,Google,Empresa tecnológica,Apple Gemini Update,https://x.com/aaronp613/status/189305...,Red social
+,Otro,X/Twitter,Plataforma social,Optifye IA Demo,https://x.com/ns123abc/status/1894204...,Red social
+,Otro,Otro,Otro,Deepseek en China,https://acortar.link/JG6Vzk,Web / Medio digital
+,Investigación,Otro,Otro,Deepseek Inference Paper,https://acortar.link/Eqrt3n,Web / Medio digital
+,Modelos de IA,Anthropic,Empresa tecnológica,Claude Alignment Issue,https://acortar.link/2zGAEP,Web / Medio digital
+,Otro,Otro,Otro,Mirage Deepfake Demo,https://acortar.link/G38vEH,Web / Medio digital
+,Otro,Otro,Otro,ElevenLabs Scribe,https://acortar.link/wyN8nH,Web / Medio digital
+,Otro,Otro,Otro,Manus: Agente General de IA,https://manus.im/share/m23B1F4nPXSFZL...,Web / Medio digital
+,Otro,Otro,Otro,Manus: Ranking de Candidatos,https://manus.im/share/YIRZaLUfghVxGC...,Web / Medio digital
+,Otro,Otro,Otro,Manus: Búsqueda de Clientes y Dashboard,https://goo.su/e4WxZZA,Web / Medio digital
+,Otro,Otro,Otro,Manus: Podcast a Reel,https://goo.su/WXowi,Web / Medio digital
+,Otro,Otro,Otro,Monica.IM: Empresa Madre de Manus,https://monica.im/en,Web / Medio digital
+,Otro,Otro,Otro,Hostinger Horizons,https://hostinger.com/inteligenciahor...,Web / Medio digital
+,Modelos de IA,OpenAI,Empresa tecnológica,Chat GPT 4.5 en LMArena,https://x.com/lmarena_ai/status/18965...,Red social
+,Otro,X/Twitter,Plataforma social,Elon Musk actualiza Grok,https://x.com/lmarena_ai/status/18966...,Red social
+,Otro,Otro,Otro,Open AI: Agentes de Alto Costo,https://goo.su/vIQSfV,Web / Medio digital
+,Modelos de IA,Otro,Otro,Alibaba QWQ 32B Modelo,https://qwenlm.github.io/blog/qwq-32b/,Blog corporativo
+,Otro,Otro,Otro,Diagrama MCP,https://goo.su/hAvR1L9,Web / Medio digital
+,Otro,Microsoft,Empresa tecnológica,Microsoft: Asistente para Médicos,https://goo.su/lf7G,Web / Medio digital
+,Otro,Microsoft,Empresa tecnológica,Microsoft Dragon Copilot,https://goo.su/xhUURF5,Web / Medio digital
+,Redes sociales,Otro,Otro,DT & Perplexity: Teléfono IA,https://goo.su/k2zZfQ,Web / Medio digital
+,Otro,Otro,Otro,Opera Browser Operator,https://goo.su/MSkzN,Web / Medio digital
+,Otro,Otro,Otro,Mistral OCR Demo,https://mistral.ai/en/news/mistral-ocr,Web / Medio digital
+,Otro,Otro,Otro,Jace AI,https://www.jace.ai/5...,Web / Medio digital
+12.0,Otro,X/Twitter,Plataforma social,Baidu y ERNIE 4.5,https://x.com/Baidu_Inc/status/190108...,Red social
+12.0,Otro,Google,Empresa tecnológica,Google AI Studio,https://aistudio.google.com,Blog corporativo
+12.0,Otro,Google,Empresa tecnológica,Google GEMMA 3 (anuncio),https://blog.google/technology/develo...,Blog corporativo
+12.0,Otro,Otro,Otro,GEMMA 3 en Hugging Face,https://huggingface.co/collections/go...,Web / Medio digital
+12.0,Investigación,Google,Empresa tecnológica,Deep Research de Google,https://x.com/OfficialLoganK/status/1...,Red social
+12.0,Otro,Otro,Otro,AI Act en España,https://www.psoe.es/actualidad/notici...,Web / Medio digital
+12.0,Otro,OpenAI,Empresa tecnológica,OpenAI y la polémica Deepseek,https://techcrunch.com/2025/03/13/ope...,Web / Medio digital
+12.0,Otro,OpenAI,Empresa tecnológica,Documento de OpenAI,https://cdn.openai.com/global-affairs...,Blog corporativo
+12.0,Otro,OpenAI,Empresa tecnológica,OpenAI Operator,https://x.com/OpenAI/status/190006475...,Red social
+12.0,Otro,Otro,Otro,Entrevista a Dario Amodei,https://www.youtube.com/live/esCSpbDPJik,Web / Medio digital
+12.0,Otro,Otro,Otro,Demo VEO2 (IMG to video),https://fal.ai/models/fal-ai/veo2/ima...,Web / Medio digital
+12.0,Otro,X/Twitter,Plataforma social,Harvey Agentes (tweet),https://x.com/harvey__ai/status/18994...,Red social
+12.0,Otro,Otro,Otro,Blog de Harvey Agentes,https://www.harvey.ai/blog/introducin...,Blog corporativo
+12.0,Otro,Otro,Otro,Agente científico de Sakana,https://sakana.ai/ai-scientist-first-...,Web / Medio digital
+12.0,Otro,OpenAI,Empresa tecnológica,OpenAI sobre seguridad en el razonamiento,https://x.com/OpenAI/status/189914375...,Red social
+13.0,Otro,Otro,Otro,Fudan,https://www.fudan.edu.cn/en/2025/0305...,Web / Medio digital
+13.0,Otro,Otro,Otro,Cáncer IA,https://newatlas.com/cancer/ai-cancer...,Web / Medio digital
+13.0,Otro,Google,Empresa tecnológica,Google Superbug,https://www.livescience.com/technolog...,Web / Medio digital
+13.0,Otro,Otro,Otro,Mistral 3.1,https://mistral.ai/news/mistral-small...,Web / Medio digital
+13.0,Otro,Otro,Otro,LG Deep32b,https://www.lgresearch.ai/blog/view?s...,Blog corporativo
+13.0,Modelos de IA,Google,Empresa tecnológica,Gemini Canvas,https://blog.google/products/gemini/g...,Blog corporativo
+13.0,Modelos de IA,Google,Empresa tecnológica,Gemini Demo,https://gemini.google.com/app,Blog corporativo
+13.0,Otro,Otro,Otro,Musk Video IA,https://acortar.link/inIzvq,Web / Medio digital
+13.0,Otro,Otro,Otro,GROK,https://grok.com/,Web / Medio digital
+13.0,Otro,Otro,Otro,Nvidia GTC,https://techcrunch.com/2025/03/18/nvi...,Web / Medio digital
+13.0,Otro,Otro,Otro,Blackwell,https://www.theverge.com/news/631835/...,Web / Medio digital
+13.0,Redes sociales,Otro,Otro,DGX Sparks,https://acortar.link/n0UodY,Web / Medio digital
+13.0,Otro,X/Twitter,Plataforma social,IA PC Tweet,https://x.com/slow_developer/status/1...,Red social
+13.0,Redes sociales,Otro,Otro,DGX Workstation,https://www.nvidia.com/en-us/products...,Web / Medio digital
+13.0,Redes sociales,Otro,Otro,DGX Pre-reserva,https://acortar.link/xyQYFR,Web / Medio digital
+13.0,Otro,Otro,Otro,GM Autónomos: • Jensen Huang Introduces Blue: NVIDIA & Dis...,,Otro
+13.0,Otro,Otro,Otro,Nvidia Fondo,https://acortar.link/jZEJNo,Web / Medio digital
+13.0,Otro,Otro,Otro,Cursos IA China,https://acortar.link/5OeOZ8,Web / Medio digital
+13.0,Otro,Anthropic,Empresa tecnológica,Anthropic Web,https://www.anthropic.com/news/web-se...,Web / Medio digital
+13.0,Otro,Otro,Otro,Atlas Robot,https://acortar.link/dRLC8s,Web / Medio digital
+13.0,Otro,Otro,Otro,"Atlas Video: • The frontier of AI, robotics & creativity ...",,Otro
+13.0,Otro,Otro,Otro,Video Reframe,https://jianhongbai.github.io/ReCamMa...,Web / Medio digital
+13.0,Otro,Otro,Otro,Co-drawing,https://huggingface.co/spaces/Trudy/g...,Web / Medio digital
+,Otro,OpenAI,Empresa tecnológica,OpenAI Tweet,https://x.com/OpenAI/status/190533195...,Red social
+,Otro,Otro,Otro,LMarena Principal,https://lmarena.ai/,Web / Medio digital
+,Investigación,X/Twitter,Plataforma social,LMarena Benchmark,https://x.com/lmarena_ai/status/19053...,Red social
+,Producto,X/Twitter,Plataforma social,DeepSeek V3 Update,https://x.com/deepseek_ai/status/1904...,Red social
+,Redes sociales,Otro,Otro,CNN - Elon Musk Xai,https://edition.cnn.com/2025/03/28/bu...,Web / Medio digital
+,Otro,X/Twitter,Plataforma social,Mario Nawfal Tweet,https://x.com/MarioNawfal/status/1904...,Red social
+,Otro,X/Twitter,Plataforma social,Sama GPU Issue,https://x.com/sama/status/19052968671...,Red social
+,Otro,X/Twitter,Plataforma social,LoganK GPU Cap,https://x.com/OfficialLoganK/status/1...,Red social
+,Otro,X/Twitter,Plataforma social,Grok Resource Tweet,https://x.com/grok/status/19060296624...,Red social
+,Otro,Otro,Otro,The Information - NVIDIA,https://www.theinformation.com/briefi...,Web / Medio digital
+,Regulación,Microsoft,Empresa tecnológica,Reuters - Microsoft,https://www.reuters.com/technology/mi...,Web / Medio digital
+,Otro,Otro,Otro,"YouTube Star Wars Video: • Star Wars: The Phantom Menace (1999) - ""Ac...",,Otro
+,Otro,X/Twitter,Plataforma social,Brett Adcock Video,https://x.com/adcock_brett/status/190...,Red social
+,Modelos de IA,OpenAI,Empresa tecnológica,LinkedIn ChatGPT Teams: / nate-gonzalez_the-most-requested-feature-f...,,Otro
+,Otro,Otro,Otro,Reve Art Plataforma,https://preview.reve.art/app/explore,Web / Medio digital
+,Otro,X/Twitter,Plataforma social,ArtificialAnlys Imagen,https://x.com/ArtificialAnlys/status/...,Red social
+,Otro,Otro,Otro,CNN - H&M Moda,https://edition.cnn.com/2025/03/28/st...,Web / Medio digital
+15.0,Otro,Meta,Empresa tecnológica,LLAMA 4,https://ai.meta.com/blog/llama-4-mult...,Blog corporativo
+15.0,Otro,Otro,Otro,OpenRouter AI,https://openrouter.ai/,Web / Medio digital
+15.0,Otro,Meta,Empresa tecnológica,Meta AI,https://www.meta.ai/,Web / Medio digital
+15.0,Modelos de IA,OpenAI,Empresa tecnológica,OpenAI Modelo,https://x.com/sama/status/19067935919...,Red social
+15.0,Otro,OpenAI,Empresa tecnológica,OpenAI Ingresos,https://www.theinformation.com/articl...,Web / Medio digital
+15.0,Otro,OpenAI,Empresa tecnológica,OpenAI Roadmap,https://x.com/sama/status/19081676216...,Red social
+15.0,Otro,Otro,Otro,Chatbot Terapia (Trial),https://home.dartmouth.edu/news/2025/...,Web / Medio digital
+15.0,Otro,Otro,Otro,Estudio Chatbot,https://ai.nejm.org/doi/full/10.1056/...,Web / Medio digital
+15.0,Otro,Otro,Otro,Test de Turing,https://arxiv.org/abs/2503.23674,Web / Medio digital
+15.0,Otro,X/Twitter,Plataforma social,Tarifas Trump (Tweet),https://x.com/Mickey4x/status/1907674...,Red social
+15.0,Otro,X/Twitter,Plataforma social,Tarifas Trump (Imagen),https://x.com/Mickey4x/status/1907674...,Red social
+15.0,Otro,X/Twitter,Plataforma social,Prototipo Kawasaki,https://x.com/BrianRoemmele/status/19...,Red social
+15.0,Otro,X/Twitter,Plataforma social,Primera Unidad,https://x.com/GTheMaximalist/status/1...,Red social
+15.0,Investigación,Otro,Otro,MoCha Paper,https://congwei1230.github.io/MoCha/?...,Web / Medio digital
+15.0,Otro,X/Twitter,Plataforma social,Plan Devin,https://x.com/cognition_labs/status/1...,Red social
+16.0,Modelos de IA,OpenAI,Empresa tecnológica,ChatGPT Memory,https://x.com/OpenAI/status/191037876...,Red social
+16.0,Modelos de IA,Google,Empresa tecnológica,Deep Research Gemini,https://blog.google/products/gemini/d...,Blog corporativo
+16.0,Modelos de IA,Google,Empresa tecnológica,Gemini API Video,https://ai.google.dev/gemini-api/docs...,Web / Medio digital
+16.0,Modelos de IA,Google,Empresa tecnológica,Gemini API Pricing,https://ai.google.dev/gemini-api/docs...,Web / Medio digital
+16.0,Otro,Google,Empresa tecnológica,Firebase Studio,https://studio.firebase.google.com/,Blog corporativo
+16.0,Otro,Otro,Otro,Prompt Arena YouTube: • VIBE CODING: Crea una App con IA en menos ...,,Otro
+16.0,Otro,X/Twitter,Plataforma social,Quake II (Geoff) Keighley),https://x.com/geoffkeighley/status/19...,Red social
+16.0,Otro,Microsoft,Empresa tecnológica,Quake II AI Demo,https://copilot.microsoft.com/wham?fe...,Web / Medio digital
+16.0,Otro,Otro,Otro,Video-DIT,https://test-time-training.github.io/...,Web / Medio digital
+16.0,Investigación,Otro,Otro,TTT Paper (ArXiv),https://arxiv.org/pdf/2504.05298,Web / Medio digital
+16.0,Otro,X/Twitter,Plataforma social,Shopify CEO Letter,https://x.com/tobi/status/19092314994...,Red social
+16.0,Investigación,Anthropic,Empresa tecnológica,Anthropic Research (Text),https://www.anthropic.com/research/re...,Web / Medio digital
+16.0,Investigación,Anthropic,Empresa tecnológica,Anthropic Research (Graphic),https://www.anthropic.com/research/re...,Web / Medio digital
+16.0,Otro,Otro,Otro,Financial Times,https://www.ft.com/content/8253b66e-a...,Web / Medio digital
+17.0,Otro,Google,Empresa tecnológica,Proyecto DolphinGemma,https://blog.google/technology/ai/dol...,Blog corporativo
+17.0,Modelos de IA,Google,Empresa tecnológica,Gemini 2.5 Flash,https://deepmind.google/technologies/...,Web / Medio digital
+17.0,Otro,Google,Empresa tecnológica,Veo 2 en AI Studio,https://aistudio.google.com/app/u/2/g...,Blog corporativo
+17.0,Modelos de IA,OpenAI,Empresa tecnológica,GPT‑4.1 (anuncio),https://openai.com/index/gpt-4-1/,Blog corporativo
+17.0,Otro,OpenAI,Empresa tecnológica,Precios API OpenAI,https://openai.com/api/pricing/,Blog corporativo
+17.0,Redes sociales,OpenAI,Empresa tecnológica,Crecimiento OpenAI vs Google (hilo X),https://x.com/SmokeAwayyy/status/1911...,Red social
+17.0,Modelos de IA,Anthropic,Empresa tecnológica,Claude Max upgrade,https://claude.ai/upgrade/max/from-ex...,Web / Medio digital
+17.0,Otro,Otro,Otro,IA detección celiaquía,https://scitechdaily.com/new-ai-sees-...,Web / Medio digital
+17.0,Otro,Meta,Empresa tecnológica,Intouch Family (llamadas IA),https://www.intouch.family/en,Web / Medio digital
+17.0,Redes sociales,X/Twitter,Plataforma social,Media maratón robots (hilo X CyberRobooo),https://x.com/CyberRobooo/status/1913...,Red social
+17.0,Redes sociales,X/Twitter,Plataforma social,Media maratón robots (hilo X SmokeAwayyy),https://x.com/SmokeAwayyy/status/1913...,Red social
+18.0,Otro,Otro,Otro,Orden IA Trump,https://www.whitehouse.gov/presidenti...,Web / Medio digital
+18.0,Otro,Otro,Otro,AI Digest gráfico,https://theaidigest.org/time-horizons,Web / Medio digital
+18.0,Redes sociales,Google,Empresa tecnológica,"Hassabis 60 Minutes: • What's next for AI at DeepMind, Google's a...",,Otro
+18.0,Otro,X/Twitter,Plataforma social,Tweet Hassabis,https://x.com/LuizaJarovsky/status/19...,Red social
+18.0,Otro,Otro,Otro,Interpretability Amodei,https://www.darioamodei.com/post/the-...,Web / Medio digital
+18.0,Otro,Otro,Otro,Supercomputador Musk,https://www.tomshardware.com/tech-ind...,Web / Medio digital
+18.0,Modelos de IA,OpenAI,Empresa tecnológica,GPT Image tweet,https://x.com/OpenAIDevs/status/19150...,Red social
+18.0,Otro,OpenAI,Empresa tecnológica,OpenAI pricing,https://platform.openai.com/docs/pricing,Blog corporativo
+18.0,Modelos de IA,Google,Empresa tecnológica,Gemini 350M TechCrunch,https://techcrunch.com/2025/04/23/goo...,Web / Medio digital
+18.0,Modelos de IA,OpenAI,Empresa tecnológica,ChatGPT vs Google,https://www.theinformation.com/briefi...,Web / Medio digital
+18.0,Otro,Google,Empresa tecnológica,Ingresos Google FT,https://www.ft.com/content/168e9ba3-e...,Web / Medio digital
+18.0,Otro,Meta,Empresa tecnológica,Meta AI,https://www.meta.ai/?nr=1,Web / Medio digital
+18.0,Otro,Otro,Otro,Oscar IA BBC,https://www.bbc.com/news/articles/cqx...,Web / Medio digital
+19.0,Redes sociales,X/Twitter,Plataforma social,JonHernández Thread,https://x.com/JonhernandezIA/status/1...,Red social
+19.0,Otro,X/Twitter,Plataforma social,SamAltman Tweet,https://x.com/sama/status/19166258921...,Red social
+19.0,Redes sociales,OpenAI,Empresa tecnológica,OpenAI Post,https://openai.com/index/expanding-on...,Blog corporativo
+19.0,Otro,Otro,Otro,TechCrunch Article,https://techcrunch.com/2025/04/28/ope...,Web / Medio digital
+19.0,Otro,Otro,Otro,NBC Report,https://www.nbcnews.com/tech/tech-new...,Web / Medio digital
+19.0,Otro,Otro,Otro,VergeRadioIA,https://www.theverge.com/news/656245/...,Web / Medio digital
+19.0,Otro,Otro,Otro,BlogQwen3,https://qwenlm.github.io/blog/qwen3/,Blog corporativo
+19.0,Otro,Otro,Otro,ChatQwen,https://chat.qwen.ai/,Web / Medio digital
+19.0,Otro,Meta,Empresa tecnológica,VergeMetaAIapp,https://www.theverge.com/ai-artificia...,Web / Medio digital
+19.0,Otro,Otro,Otro,DocsMidjourney,https://docs.midjourney.com/hc/en-us/...,Web / Medio digital
+19.0,Otro,X/Twitter,Plataforma social,TweetSundarPichai,https://x.com/sundarpichai/status/191...,Red social
+19.0,Redes sociales,Otro,Otro,SandboxIAEspaña: / mintradigital_arranca-el-sandbox-de-inteli...,,Otro
+20.0,Otro,Otro,Otro,Cruz Senado,https://www.youtube.com/live/jOqTg1W_F5Q,Web / Medio digital
+20.0,Otro,X/Twitter,Plataforma social,Altman Senado clip,https://x.com/kimmonismus/status/1920...,Red social
+20.0,Otro,X/Twitter,Plataforma social,Altman DeepSeek,https://x.com/slow_developer/status/1...,Red social
+20.0,Otro,X/Twitter,Plataforma social,Altman Energía,https://x.com/Raph_Bloch/status/19214...,Red social
+20.0,Otro,Otro,Otro,Forbes IA despidos,https://www.forbes.com/sites/jackkell...,Web / Medio digital
+20.0,Otro,OpenAI,Empresa tecnológica,VentureBeat Windsurf,https://venturebeat.com/ai/openais-3b...,Web / Medio digital
+20.0,Otro,Google,Empresa tecnológica,Firebase,https://firebase.google.com/?hl=es-419,Blog corporativo
+20.0,Otro,OpenAI,Empresa tecnológica,OpenAI Estructura,https://openai.com/index/evolving-our...,Blog corporativo
+20.0,Otro,Microsoft,Empresa tecnológica,The Information Microsoft,https://www.theinformation.com/articl...,Web / Medio digital
+20.0,Otro,X/Twitter,Plataforma social,Rohan tweet,https://x.com/khoomeik/status/1919441...,Red social
+20.0,Otro,Otro,Otro,Rohan web,https://rpandey.tech/,Web / Medio digital
+20.0,Otro,OpenAI,Empresa tecnológica,OpenAI Fidji Simo,https://openai.com/index/leadership-e...,Blog corporativo
+20.0,Otro,Otro,Otro,Mistral Medium 3,https://mistral.ai/news/mistral-medium-3,Web / Medio digital
+20.0,Otro,Otro,Otro,Mistral Pricing,https://mistral.ai/products/la-platef...,Web / Medio digital
+20.0,Otro,Otro,Otro,UAE IA educación,https://www.artificialintelligence-ne...,Web / Medio digital
+21.0,Otro,Google,Empresa tecnológica,AlphaEvolve blog,https://deepmind.google/discover/blog...,Blog corporativo
+21.0,Otro,Google,Empresa tecnológica,AlphaEvolve PDF,https://storage.googleapis.com/deepmi...,Web / Medio digital
+21.0,Otro,Google,Empresa tecnológica,AMIE multimodal,https://research.google/blog/amie-gai...,Blog corporativo
+21.0,Redes sociales,OpenAI,Empresa tecnológica,Codex (OpenAI),https://openai.com/index/introducing-...,Blog corporativo
+21.0,Otro,OpenAI,Empresa tecnológica,HealthBench,https://openai.com/index/healthbench/,Blog corporativo
+21.0,Modelos de IA,OpenAI,Empresa tecnológica,BBVA + GPT,https://www.bbva.com/es/innovacion/bb...,Web / Medio digital
+21.0,Otro,Otro,Otro,Moderna HR-Tech,https://www.wsj.com/articles/why-mode...,Web / Medio digital
+21.0,Otro,X/Twitter,Plataforma social,Klarna CEO tweet,https://x.com/klarnaseb/status/192274...,Red social
+21.0,Otro,Otro,Otro,Nvidia Blackwell Arabia,https://www.cnbc.com/2025/05/13/nvidi...,Web / Medio digital
+21.0,Otro,OpenAI,Empresa tecnológica,OpenAI Stargate,https://www.theinformation.com/briefi...,Web / Medio digital
+21.0,Otro,Otro,Otro,Propuesta ley IA EE.UU.,https://d1dth6e84htgma.cloudfront.net...,Web / Medio digital
+21.0,Otro,X/Twitter,Plataforma social,Tuit Hawley,https://x.com/americans4ri/status/192...,Red social
+21.0,Otro,Otro,Otro,AI Act Q&A,https://digital-strategy.ec.europa.eu...,Web / Medio digital
+22.0,Modelos de IA,Anthropic,Empresa tecnológica,Claude 4 (presentación),https://www.anthropic.com/news/claude-4,Web / Medio digital
+22.0,Otro,Anthropic,Empresa tecnológica,ASL-3 Protections de Anthropic,https://www.anthropic.com/news/activa...,Web / Medio digital
+22.0,Modelos de IA,Anthropic,Empresa tecnológica,System Card PDF (Claude 4),https://www-cdn.anthropic.com/6be99a5...,Web / Medio digital
+22.0,Otro,X/Twitter,Plataforma social,Tweet Veo 3 (Josh Woodward),https://x.com/joshwoodward/status/192...,Red social
+22.0,Otro,OpenAI,Empresa tecnológica,OpenAI × Jony Ive,https://openai.com/sam-and-jony/,Blog corporativo
+22.0,Otro,X/Twitter,Plataforma social,Rumor AI Pin,https://x.com/mingchikuo/status/19255...,Red social
+22.0,Otro,Google,Empresa tecnológica,Meme IO × Google I/O,https://x.com/Mihonarium/status/19253...,Red social
+22.0,Otro,Microsoft,Empresa tecnológica,Microsoft Build 2025,https://www.directionsonmicrosoft.com...,Web / Medio digital
+22.0,Otro,Microsoft,Empresa tecnológica,Azure AI Foundry (blog),https://azure.microsoft.com/en-us/blo...,Blog corporativo
+22.0,Redes sociales,OpenAI,Empresa tecnológica,Sam Altman CODEX (vídeo): • Conversation with OpenAI CEO Sam Altman: S...,,Otro
+22.0,Modelos de IA,OpenAI,Empresa tecnológica,Stargate UAE (ChatGPT nacional),https://openai.com/index/introducing-...,Blog corporativo
+22.0,Investigación,Otro,Otro,Paper productividad IA (NBER),https://www.nber.org/system/files/wor...,Web / Medio digital
+22.0,Otro,Otro,Otro,Discurso Von der Leyen: • This Budget SAVED 40 Million Jobs – Now It...,,Otro
+22.0,Otro,Otro,Otro,Oracle compra 40 000 M$ en GPUs (FT),https://www.ft.com/content/a9cd130f-f...,Web / Medio digital
+22.0,Otro,X/Twitter,Plataforma social,Tesla Optimus en casa,https://x.com/SawyerMerritt/status/19...,Red social
+23.0,Otro,X/Twitter,Plataforma social,DeepSeek actualización,https://x.com/deepseek_ai/status/1928...,Red social
+23.0,Otro,Otro,Otro,DeepSeek chat,https://chat.deepseek.com/,Web / Medio digital
+23.0,Otro,Otro,Otro,DeepSeek precios,https://api-docs.deepseek.com/quick_s...,Web / Medio digital
+23.0,Redes sociales,Otro,Otro,Entrevista Axios Amodei,https://www.axios.com/2025/05/28/ai-j...,Web / Medio digital
+23.0,Otro,X/Twitter,Plataforma social,Tuit Obama,https://x.com/BarackObama/status/1928...,Red social
+23.0,Otro,X/Twitter,Plataforma social,Clip MSNBC: McKinsey: hackeo IA,https://x.com/kimmonismus/status/1927...,Red social
+23.0,Otro,X/Twitter,Plataforma social,Palisade sabotaje apagado,https://x.com/PalisadeAI/status/19260...,Red social
+23.0,Otro,Otro,Otro,Advertencia Yudkowsky,https://time.com/6266923/ai-eliezer-y...,Web / Medio digital
+23.0,Otro,Google,Empresa tecnológica,APK Google AI Edge,https://github.com/google-ai-edge/gal...,Web / Medio digital
+23.0,Redes sociales,Otro,Otro,Playground Flux Kontext,https://playground.bfl.ai/image/generate,Web / Medio digital
+23.0,Otro,Otro,Otro,Colapso Builder.ai,https://algogist.com/fake-ai-real-dra...,Web / Medio digital
+23.0,Otro,Otro,Otro,DG IA Cataluña,https://www.europapress.es/catalunya/...,Web / Medio digital
+23.0,Otro,Otro,Otro,Eliezer Yudkowsky,https://time.com/6266923/ai-eliezer-y...,Web / Medio digital
+24.0,Modelos de IA,OpenAI,Empresa tecnológica,Conciencia en ChatGPT,https://x.com/joannejang/status/19307...,Red social
+24.0,Modelos de IA,Google,Empresa tecnológica,Gemini 2.5 Pro,https://deepmind.google/models/gemini...,Web / Medio digital
+24.0,Regulación,Otro,Otro,ONG LawZero (Bengio),https://yoshuabengio.org/2025/06/03/i...,Web / Medio digital
+24.0,Modelos de IA,OpenAI,Empresa tecnológica,ChatGPT Record,https://help.openai.com/en/articles/1...,Blog corporativo
+24.0,Redes sociales,OpenAI,Empresa tecnológica,Codex con Internet,https://x.com/OpenAIDevs/status/19299...,Red social
+24.0,Otro,Otro,Otro,Informe IA 2025 (Bond),https://www.bondcap.com/report/pdf/Tr...,Web / Medio digital
+24.0,Otro,Otro,Otro,IA en el trabajo,https://papers.ssrn.com/sol3/papers.c...,Web / Medio digital
+24.0,Otro,X/Twitter,Plataforma social,Opinión Harari,https://x.com/reidhoffman/status/1931...,Red social
+24.0,Otro,Otro,Otro,Paro programadores vs arte,https://e.vnexpress.net/news/tech/tec...,Web / Medio digital
+24.0,Otro,X/Twitter,Plataforma social,Manus IA Video,https://x.com/ManusAI_HQ/status/19299...,Red social
+24.0,Otro,OpenAI,Empresa tecnológica,Película OpenAI,https://www.hollywoodreporter.com/mov...,Web / Medio digital
+24.0,Otro,Otro,Otro,Centro EE. UU. IA,https://www.commerce.gov/news/press-r...,Web / Medio digital
+24.0,Otro,Otro,Otro,Debate pausa AI Act,https://www.politico.eu/article/eu-co...,Web / Medio digital
+25.0,Modelos de IA,OpenAI,Empresa tecnológica,Gestor reuniones GPT,https://chatgpt.com/g/g-6824dfe783808...,Web / Medio digital
+25.0,Otro,OpenAI,Empresa tecnológica,Notas O3 Pro,https://help.openai.com/en/articles/9...,Blog corporativo
+25.0,Investigación,X/Twitter,Plataforma social,Tetris benchmark,https://x.com/haoailab/status/1933614...,Red social
+25.0,Otro,X/Twitter,Plataforma social,Rebaja O3,https://x.com/sama/status/19324346065...,Red social
+25.0,Otro,X/Twitter,Plataforma social,Comparativa precios,https://x.com/edwinarbus/status/19325...,Red social
+25.0,Otro,OpenAI,Empresa tecnológica,Ingresos OpenAI,https://www.cnbc.com/2025/06/09/opena...,Web / Medio digital
+25.0,Otro,X/Twitter,Plataforma social,Consumo energía IA,https://x.com/sama/status/19325479486...,Red social
+25.0,Otro,Google,Empresa tecnológica,Acuerdo cloud Google,https://www.reuters.com/business/reta...,Web / Medio digital
+25.0,Otro,Meta,Empresa tecnológica,Fichajes Meta,https://www.theregister.com/2025/06/1...,Web / Medio digital
+25.0,Otro,Meta,Empresa tecnológica,Meta compra Scale,https://www.theverge.com/meta/685711/...,Web / Medio digital
+25.0,Otro,Meta,Empresa tecnológica,App Meta AI,https://techcrunch.com/2025/06/12/the...,Web / Medio digital
+25.0,Otro,Otro,Otro,Ministro UK IA,https://www.theguardian.com/technolog...,Web / Medio digital
+25.0,Redes sociales,Otro,Otro,Aviso Alex Karp,https://fortune.com/2025/06/07/ai-wor...,Web / Medio digital
+25.0,Investigación,Otro,Otro,Paper IA reviews,https://www.medrxiv.org/content/10.11...,Web / Medio digital
+25.0,Otro,Microsoft,Empresa tecnológica,Barclays Copilot,https://ukstories.microsoft.com/featu...,Web / Medio digital
+25.0,Otro,Otro,Otro,Contrabando datos China,https://www.wsj.com/tech/china-ai-chi...,Web / Medio digital
+25.0,Modelos de IA,Otro,Otro,Seedance modelo,https://seed.bytedance.com/en/seedance,Web / Medio digital
+25.0,Otro,Otro,Otro,Seedance demo,https://fal.ai/models/fal-ai/bytedanc...,Web / Medio digital
+25.0,Otro,X/Twitter,Plataforma social,Midjourney videos 2,https://x.com/PhotoGarrido/status/193...,Red social
+25.0,Otro,Otro,Otro,Demanda Disney/Universal,https://www.npr.org/2025/06/12/nx-s1-...,Web / Medio digital
+25.0,Otro,X/Twitter,Plataforma social,Anuncio NBA IA,https://x.com/venturetwins/status/193...,Red social
+25.0,Otro,OpenAI,Empresa tecnológica,Mattel + OpenAI,https://corporate.mattel.com/news/mat...,Web / Medio digital
+25.0,Otro,Otro,Otro,Chatbots conspiranoia,https://www.nytimes.com/2025/06/13/te...,Web / Medio digital
+25.0,Otro,Otro,Otro,"Speech Ilya Sutskever: • Ilya Sutskever, U of T honorary degree rec...",,Otro
+26.0,Investigación,Otro,Otro,Paper MIT sobre IA y aprendizaje,https://arxiv.org/pdf/2506.08872,Web / Medio digital
+26.0,Otro,Meta,Empresa tecnológica,Meta ficha a Daniel Gross y Nat Friedman,https://www.theinformation.com/articl...,Web / Medio digital
+26.0,Otro,Meta,Empresa tecnológica,Meta compra Scale AI,https://www.cnbc.com/2025/06/20/meta-...,Web / Medio digital
+26.0,Redes sociales,Otro,Otro,Apple también detrás de Perplexity,https://www.reuters.com/business/appl...,Web / Medio digital
+26.0,Otro,OpenAI,Empresa tecnológica,Tensiones entre OpenAI y Microsoft,https://www.wsj.com/tech/ai/openai-an...,Web / Medio digital
+26.0,Otro,OpenAI,Empresa tecnológica,Página retirada por orden judicial (OpenAI + Jony Ive),https://openai.com/sam-and-jony/,Blog corporativo
+26.0,Otro,OpenAI,Empresa tecnológica,Demanda contra OpenAI por marca IYO,https://business.cch.com/ipld/IYOIOPr...,Web / Medio digital
+26.0,Otro,OpenAI,Empresa tecnológica,Documentación judicial caso IYO vs OpenAI,https://storage.courtlistener.com/rec...,Web / Medio digital
+26.0,Otro,OpenAI,Empresa tecnológica,Contrato de OpenAI con el Pentágono,https://breakingdefense.com/2025/06/o...,Web / Medio digital
+26.0,Otro,Otro,Otro,Reddit evalúa escaneo de iris con World ID,https://www.semafor.com/article/06/20...,Web / Medio digital
+26.0,Otro,Otro,Otro,Amazon anuncia despidos por IA,https://www.aboutamazon.com/news/comp...,Web / Medio digital
+26.0,Redes sociales,Otro,Otro,Venta de Base44 a Wix por 80M,https://techcrunch.com/2025/06/18/6-m...,Web / Medio digital
+26.0,Otro,X/Twitter,Plataforma social,Midjourney Video ejemplo 1 (JulieWDesign),https://x.com/juliewdesign_/status/19...,Red social
+26.0,Otro,X/Twitter,Plataforma social,Midjourney Video ejemplo 2 (EccentrismArt),https://x.com/EccentrismArt/status/19...,Red social
+26.0,Otro,X/Twitter,Plataforma social,Midjourney Video ejemplo 3 (Doganuraldesign),https://x.com/doganuraldesign/status/...,Red social
+26.0,Redes sociales,Otro,Otro,Robots humanoides de Nvidia en Foxconn,https://www.reuters.com/world/china/n...,Web / Medio digital
+28.0,Otro,Microsoft,Empresa tecnológica,Microsoft diagnóstico IA,https://microsoft.ai/new/the-path-to-...,Web / Medio digital
+28.0,Redes sociales,X/Twitter,Plataforma social,Opinión médico en Twitter,https://x.com/DrDominicNg/status/1939...,Red social
+28.0,Otro,Otro,Otro,CHAI 2 anticuerpos IA,https://finance.yahoo.com/news/chai-d...,Web / Medio digital
+28.0,Redes sociales,X/Twitter,Plataforma social,CHAI 2 vídeo Twitter,https://x.com/chaidiscovery/status/19...,Red social
+28.0,Otro,Otro,Otro,Empleo Adzuna UK,https://www.adzuna.co.uk/job-market-r...,Web / Medio digital
+28.0,Otro,Otro,Otro,Salarios IA PWC,https://www.csregypt.com/en/pwc-repor...,Web / Medio digital
+28.0,Otro,Otro,Otro,Ford CEO sobre IA,https://www.dailymail.co.uk/video/new...,Web / Medio digital
+28.0,Otro,Otro,Otro,Velvet Sundown Spotify,https://www.nme.com/news/music/seemin...,Web / Medio digital
+28.0,Otro,Otro,Otro,Instagram Velvet Sundown: / thevelvetsundownband,,Otro
+28.0,Otro,Otro,Otro,Petición artistas UK,https://www.nme.com/news/music/elton-...,Web / Medio digital
+28.0,Otro,Otro,Otro,Divorcio con casos IA,https://abovethelaw.com/2025/07/trial...,Web / Medio digital
+28.0,Otro,Anthropic,Empresa tecnológica,Apple y Anthropic,https://techcrunch.com/2025/06/30/app...,Web / Medio digital
+28.0,Otro,Otro,Otro,Cloudflare marketplace IA,https://techcrunch.com/2025/07/01/clo...,Web / Medio digital
+28.0,Otro,Otro,Otro,Senado USA IA moratoria,https://edition.cnn.com/2025/07/01/te...,Web / Medio digital
+28.0,Otro,X/Twitter,Plataforma social,Imagen resumen ley IA,https://x.com/tamaybes/status/1940983...,Red social
+30.0,Otro,Otro,Otro,Grok anime,,Otro
+30.0,Otro,Otro,Otro,,https://www.rollingstone.com/culture/...,Web / Medio digital
+30.0,Otro,Otro,Otro,Valentine IA,,Otro
+30.0,Otro,X/Twitter,Plataforma social,,https://x.com/elonmusk/status/1946759...,Red social
+30.0,Redes sociales,Otro,Otro,Contrato XAI–Pentágono,,Otro
+30.0,Otro,X/Twitter,Plataforma social,,https://x.com/xai/status/194477689942...,Red social
+30.0,Otro,Otro,Otro,Anuncio oficial DoD,,Otro
+30.0,Otro,Otro,Otro,,https://www.ai.mil/Latest/News-Press/...,Web / Medio digital
+30.0,Otro,OpenAI,Empresa tecnológica,OpenAI gana oro,,Otro
+30.0,Otro,X/Twitter,Plataforma social,,https://x.com/alexwei_/status/1946477...,Red social
+30.0,Modelos de IA,Otro,Otro,Detalles del modelo,,Otro
+30.0,Otro,X/Twitter,Plataforma social,,https://x.com/polynoamial/status/1946...,Red social
+30.0,Modelos de IA,OpenAI,Empresa tecnológica,GPT-5 no es,,Otro
+30.0,Otro,X/Twitter,Plataforma social,,https://x.com/sama/status/19465692522...,Red social
+30.0,Otro,Otro,Otro,Emad sorprendido,,Otro
+30.0,Otro,X/Twitter,Plataforma social,,https://x.com/EMostaque/status/194653...,Red social
+30.0,Otro,Otro,Otro,Gary Marcus opina,,Otro
+30.0,Otro,X/Twitter,Plataforma social,,https://x.com/GaryMarcus/status/19465...,Red social
+30.0,Otro,Otro,Otro,Comentario Bubeck,,Otro
+30.0,Otro,X/Twitter,Plataforma social,,https://x.com/SebastienBubeck/status/...,Red social
+30.0,Otro,Otro,Otro,Agent Mode mejorado,,Otro
+30.0,Otro,X/Twitter,Plataforma social,,https://x.com/morqon/status/194664959...,Red social
+30.0,Otro,OpenAI,Empresa tecnológica,OpenAI en comp. de código,,Otro
+30.0,Otro,X/Twitter,Plataforma social,,https://x.com/FakePsyho/status/194544...,Red social
+30.0,Otro,Otro,Otro,O3 Alpha aparece,,Otro
+30.0,Otro,X/Twitter,Plataforma social,,https://x.com/yourvictoryteam/status/...,Red social
+30.0,Otro,Otro,Otro,Zuckerberg data centers,,Otro
+30.0,Otro,Meta,Empresa tecnológica,,https://www.facebook.com/watch/?v=230...,Web / Medio digital
+30.0,Otro,Meta,Empresa tecnológica,Fichajes Meta,,Otro
+30.0,Otro,X/Twitter,Plataforma social,,https://x.com/deedydas/status/1946597...,Red social
+30.0,Otro,Otro,Otro,Devin compra Windsurf,,Otro
+30.0,Otro,X/Twitter,Plataforma social,,https://x.com/cognition_labs/status/1...,Red social
+30.0,Otro,Otro,Otro,Amazon lanza KIRO,,Otro
+30.0,Otro,Otro,Otro,,https://kiro.dev/,Web / Medio digital
+30.0,Otro,Otro,Otro,Apple va por Mistral,,Otro
+30.0,Otro,Otro,Otro,/ analytics-india-magazine_apple-is-reported...,,Otro
+30.0,Otro,OpenAI,Empresa tecnológica,OpenAI imagen nueva,,Otro
+30.0,Otro,OpenAI,Empresa tecnológica,,https://x.com/OpenAIDevs/status/19455...,Red social
+30.0,Otro,Otro,Otro,NVIDIA vende a China,,Otro
+30.0,Otro,X/Twitter,Plataforma social,,https://x.com/nvidianewsroom/status/1...,Red social
+30.0,Otro,Microsoft,Empresa tecnológica,Microsoft despide por IA,,Otro
+30.0,Otro,Otro,Otro,,https://www.pcgamer.com/gaming-indust...,Web / Medio digital
+31.0,Modelos de IA,OpenAI,Empresa tecnológica,Lanzamiento GPT-5 filtrado,https://www.theverge.com/notepad-micr...,Web / Medio digital
+31.0,Regulación,Otro,Otro,AI Act Europa,https://artificialintelligenceact.eu/...,Web / Medio digital
+31.0,Modelos de IA,OpenAI,Empresa tecnológica,Modelo en selector Copilot: GPT-5 destaca en programación,https://x.com/testingcatalog/status/1...,Red social
+31.0,Modelos de IA,OpenAI,Empresa tecnológica,Resumen sobre GPT-5 y variantes,https://www.livemint.com/technology/t...,Web / Medio digital
+31.0,Otro,Otro,Otro,Sam Altman sobre razonamiento: • Sam Altman | This Past Weekend w/ Theo Von...,,Otro
+31.0,Modelos de IA,X/Twitter,Plataforma social,Modelos O3alpha y más,https://x.com/chetaslua/status/194870...,Red social
+31.0,Otro,Otro,Otro,Web de Grok actualizada,https://grok.com/,Web / Medio digital
+31.0,Modelos de IA,Google,Empresa tecnológica,Gemini gana medalla IMO,https://deepmind.google/discover/blog...,Blog corporativo
+31.0,Otro,Google,Empresa tecnológica,Repetido por error (DeepMind),https://deepmind.google/discover/blog...,Blog corporativo
+31.0,Otro,Meta,Empresa tecnológica,Shengjia Zhao en Meta,https://www.threads.com/@zuck/post/DM...,Web / Medio digital
+31.0,Otro,X/Twitter,Plataforma social,Robot humanoide R1 barato,https://x.com/iterintellectus/status/...,Red social
+31.0,Modelos de IA,Otro,Otro,Supermodelo IA en Vogue,https://www.bbc.com/news/articles/cge...,Web / Medio digital
+31.0,Otro,Otro,Otro,Radio IA 24/7 por SUNO,https://suno.com/live-radio,Web / Medio digital
+31.0,Otro,Otro,Otro,Estonia impulsa IA educativa,https://e-estonia.com/ai-leap-2025-es...,Web / Medio digital
+32.0,Otro,X/Twitter,Plataforma social,Tweet Sam Altman,https://x.com/sama/status/19516950031...,Red social
+32.0,Otro,Otro,Otro,Podcast Sam Altman (31: 12): • Sam Altman | This Past Weekend w/ Theo Von...,,Otro
+32.0,Modelos de IA,Google,Empresa tecnológica,Gemini 2.5 Deep Think (Google),https://blog.google/products/gemini/g...,Blog corporativo
+32.0,Otro,Otro,Otro,LinkedIn Andrew Tulloch: / andrew-tulloch-17238745,,Otro
+32.0,Otro,Meta,Empresa tecnológica,Meta Superintelligence Lab,https://www.meta.com/superintelligence/,Web / Medio digital
+32.0,Investigación,Microsoft,Empresa tecnológica,Paper Microsoft IA y empleo,https://arxiv.org/pdf/2507.07935,Web / Medio digital
+32.0,Otro,Otro,Otro,Wan Video 2.2 (Alibaba),https://wan.video/welcome,Web / Medio digital
+32.0,Otro,X/Twitter,Plataforma social,Video Grok (cb_doge),https://x.com/cb_doge/status/19517212...,Red social
+33.0,Investigación,Otro,Otro,Benchmark tareas largas (Metr.org),https://metr.org/blog/2025-03-19-meas...,Blog corporativo
+33.0,Modelos de IA,OpenAI,Empresa tecnológica,Ayuda oficial OpenAI sobre GPT-5,https://help.openai.com/en/articles/1...,Blog corporativo
+33.0,Otro,OpenAI,Empresa tecnológica,Debate en la comunidad de OpenAI,https://community.openai.com/t/openai...,Blog corporativo
+33.0,Modelos de IA,OpenAI,Empresa tecnológica,Presentación Sebastien Bubeck (YouTube): • Introducing GPT-5,,Otro
+33.0,Otro,Google,Empresa tecnológica,Google presenta Genie 3 (DeepMind),https://deepmind.google/discover/blog...,Blog corporativo
+33.0,Redes sociales,X/Twitter,Plataforma social,Genie 3 comparativa versión 2 y 3 (X),https://x.com/bilawalsidhu/status/195...,Red social
+33.0,Redes sociales,X/Twitter,Plataforma social,Genie 3 mundo abierto en tiempo real (X): Genie 3 cambio de imagen a T-Rex (X),https://x.com/MattMcGill_/status/1952...,Red social
+33.0,Redes sociales,X/Twitter,Plataforma social,Genie 3 navegación en cuadro (X),https://x.com/holynski_/status/195388...,Red social
+33.0,Modelos de IA,Google,Empresa tecnológica,Demo libros narrados en Gemini,https://gemini.google.com/gem/storybo...,Blog corporativo
+33.0,Modelos de IA,Anthropic,Empresa tecnológica,Lanzamiento Claude 4.1 (Anthropic),https://www.anthropic.com/news/claude...,Web / Medio digital
+33.0,Otro,Otro,Otro,Eleven Labs entra en música,https://elevenlabs.io/app/music,Web / Medio digital
+33.0,Otro,Otro,Otro,IA descubre nueva física (Interesting Engineering),https://interestingengineering.com/in...,Web / Medio digital
+33.0,Regulación,Otro,Otro,Primer ministro de Suecia usa IA (Euronews),https://www.euronews.com/next/2025/08...,Web / Medio digital
+33.0,Modelos de IA,OpenAI,Empresa tecnológica,ChatGPT gratis para gobierno de EE. UU. (OpenAI),https://openai.com/index/providing-ch....,Blog corporativo
+36.0,Modelos de IA,OpenAI,Empresa tecnológica,Demo en ChatGPT (Sam Altman),https://x.com/sama/status/19554389166...,Red social
+36.0,Modelos de IA,OpenAI,Empresa tecnológica,Límites y actualizaciones GPT-5,https://x.com/OpenAI/status/195646171...,Red social
+36.0,Otro,OpenAI,Empresa tecnológica,Notas oficiales OpenAI,https://help.openai.com/en/articles/6...,Blog corporativo
+36.0,Otro,X/Twitter,Plataforma social,Olimpiadas matemáticas e informáticas,https://x.com/SherylHsu02/status/1954...,Red social
+36.0,Otro,Otro,Otro,Entrevista Sam Altman (The Verge),https://www.theverge.com/command-line...,Web / Medio digital
+36.0,Otro,Anthropic,Empresa tecnológica,Investigación Anthropic (End subset conversations),https://www.anthropic.com/research/en...,Web / Medio digital
+36.0,Modelos de IA,Anthropic,Empresa tecnológica,Claude AI con memoria,https://x.com/claudeai/status/1954982...,Red social
+36.0,Modelos de IA,Google,Empresa tecnológica,Memoria en Gemini,https://blog.google/products/gemini/t...,Blog corporativo
+36.0,Redes sociales,X/Twitter,Plataforma social,Igor Babuschkin deja XAI,https://x.com/ibab/status/19557416986...,Red social
+36.0,Otro,Otro,Otro,Traducción simultánea TikTok,https://seed.bytedance.com/en/seed_li...,Web / Medio digital
+36.0,Otro,X/Twitter,Plataforma social,Lipsync PIKA Labs,https://x.com/pika_labs/status/195493...,Red social
+36.0,Otro,Otro,Otro,Nvidia y AMD 15% a EE.UU.,https://www.bbc.com/news/articles/cvg..,Web / Medio digital
+37.0,Modelos de IA,OpenAI,Empresa tecnológica,ChatGPT GO – plan de 4€ en India,https://help.openai.com/en/articles/1...,Blog corporativo
+37.0,Otro,OpenAI,Empresa tecnológica,Tabla comparativa planes OpenAI,https://chatgpt.com/c/68ab459d-1ab4-8...,Web / Medio digital
+37.0,Modelos de IA,Google,Empresa tecnológica,Evento Pixel 10 Google: • Meet Google Pixel 10 With Gemini | Do Spec...,,Otro
+37.0,Otro,X/Twitter,Plataforma social,Edit by voice (clip),https://x.com/xplorans/status/1958221...,Red social
+37.0,Modelos de IA,Google,Empresa tecnológica,Gemini highlights Google,https://x.com/madebygoogle/status/195...,Red social
+37.0,Otro,X/Twitter,Plataforma social,Elon Musk sobre Grok 5 (AGI),https://x.com/elonmusk/status/1958499...,Red social
+37.0,Otro,X/Twitter,Plataforma social,Avatares Grok (trajes digitales),https://x.com/elonmusk/status/1958073...,Red social
+37.0,Otro,X/Twitter,Plataforma social,Historia Intercom (IA soporte),https://x.com/lennysan/status/1958609...,Red social
+37.0,Otro,Otro,Otro,CEO Coinbase despide por no usar IA (TechCrunch),https://techcrunch.com/2025/08/22/coi...,Web / Medio digital
+37.0,Otro,Otro,Otro,CEO Coinbase podcast (YouTube): • A Cheeky Pint with Coinbase CEO Brian Arms...,,Otro
+38.0,Otro,X/Twitter,Plataforma social,Flecha roja (demo),https://x.com/tokumin/status/19605832...,Red social
+38.0,Modelos de IA,OpenAI,Empresa tecnológica,OpenAI directo (voz): • Introducing gpt-realtime in the API,,Otro
+38.0,Otro,Microsoft,Empresa tecnológica,VibeVoice en HF,https://huggingface.co/microsoft/Vibe...,Web / Medio digital
+38.0,Otro,Microsoft,Empresa tecnológica,VibeVoice (web),https://microsoft.github.io/VibeVoice/,Web / Medio digital
+38.0,Redes sociales,Microsoft,Empresa tecnológica,Copilot Audio Expression,https://copilot.microsoft.com/labs/au...,Web / Medio digital
+38.0,Otro,Otro,Otro,MAI-1 en LM Arena,https://lmarena.ai/c/1fbb2d92-fcfa-44...,Web / Medio digital
+38.0,Otro,Otro,Otro,KIMI para PPTs,https://www.kimi.com/chat/d2pdnjn60ra...,Web / Medio digital
+38.0,Otro,Otro,Otro,Grok Code Fast 1,https://x.ai/news/grok-code-fast-1,Web / Medio digital
+38.0,Otro,X/Twitter,Plataforma social,Apple visión en tiempo real,https://x.com/reach_vb/status/1961471...,Red social
+38.0,Investigación,Otro,Otro,Paper Stanford (empleo e IA),https://digitaleconomy.stanford.edu/p...,Web / Medio digital
+38.0,Otro,Otro,Otro,TIME 100 AI 2025,https://time.com/collections/time100-...,Web / Medio digital
+38.0,Otro,X/Twitter,Plataforma social,Robot ping-pong,https://x.com/IterIntellectus/status/...,Red social
+39.0,Modelos de IA,Anthropic,Empresa tecnológica,Anthropic restringe Claude en China,https://www.anthropic.com/news/updati...,Web / Medio digital
+39.0,Otro,Otro,Otro,Datos empleo EE.UU.,https://unusualwhales.com/news/u-s-au...,Web / Medio digital
+39.0,Investigación,Otro,Otro,Paper sobre empleo e IA,https://papers.ssrn.com/sol3/papers.c...,Web / Medio digital
+39.0,Otro,X/Twitter,Plataforma social,Despidos en Salesforce,https://x.com/LinusEkenstam/status/19...,Red social
+39.0,Otro,OpenAI,Empresa tecnológica,Dividir conversaciones en OpenAI,https://x.com/MicahJanke/status/19589...,Red social
+39.0,Redes sociales,Otro,Otro,Perplexity gratis con PayPal,https://www.perplexity.ai/join/p/payp...,Web / Medio digital
+39.0,Otro,X/Twitter,Plataforma social,Resumen de Suleyman,https://x.com/mustafasuleyman/status/...,Red social
+39.0,Modelos de IA,Google,Empresa tecnológica,Gemini Nano Banana,https://9to5google.com/2025/09/04/gem...,Blog corporativo
+39.0,Modelos de IA,Google,Empresa tecnológica,Estadísticas Gemini,https://x.com/joshwoodward/status/196...,Red social
+39.0,Otro,Anthropic,Empresa tecnológica,Ronda financiación Anthropic,https://www.anthropic.com/news/anthro...,Web / Medio digital
+39.0,Otro,Anthropic,Empresa tecnológica,Demanda copyright Anthropic,https://storage.courtlistener.com/rec...,Web / Medio digital
+39.0,Modelos de IA,OpenAI,Empresa tecnológica,Paper sobre alucinaciones GPT-5,https://cdn.openai.com/pdf/d04913be-3...,Blog corporativo
+39.0,Otro,Otro,Otro,Estetoscopio IA en Londres,https://www.theguardian.com/technolog...,Web / Medio digital
+39.0,Otro,X/Twitter,Plataforma social,Cena Trump con CEOs,https://x.com/RapidResponse47/status/...,Red social
+39.0,Otro,X/Twitter,Plataforma social,Altman en cena Trump,https://x.com/benitoz/status/19637954...,Red social
+39.0,Otro,X/Twitter,Plataforma social,Zuckerberg micro abierto,https://x.com/Acyn/status/19640242607...,Red social
+41.0,Otro,Otro,Otro,Neon,https://neonmobile.com/,Web / Medio digital
+41.0,Modelos de IA,Anthropic,Empresa tecnológica,Claude4.5,https://www.anthropic.com/news/claude...,Web / Medio digital
+41.0,Otro,X/Twitter,Plataforma social,VibeDatos,https://x.com/FabianHedin/status/1974...,Red social
+41.0,Modelos de IA,Anthropic,Empresa tecnológica,ImagineClaude: • An experimental new way to design software,,Otro
+41.0,Otro,Anthropic,Empresa tecnológica,DemoImagine,https://claude.ai/imagine/,Web / Medio digital
+41.0,Otro,X/Twitter,Plataforma social,Lovable,https://x.com/lovable_dev/status/1972...,Red social
+41.0,Otro,Otro,Otro,Satya,https://www.semafor.com/article/05/19...,Web / Medio digital
+41.0,Otro,Microsoft,Empresa tecnológica,AgentMode,https://www.microsoft.com/en-us/micro...,Web / Medio digital
+41.0,Redes sociales,Otro,Otro,AgentVideo: • Agent Mode in Excel: Build and Edit Spread...,,Otro
+41.0,Redes sociales,Otro,Otro,ExcelVideo: • Agent Mode in Word: Edit and Format a Word...,,Otro
+41.0,Otro,Microsoft,Empresa tecnológica,WordVideo: • Office Agent in Microsoft 365 Copilot: Cre...,,Otro
+41.0,Otro,Microsoft,Empresa tecnológica,ActivarAgent,https://support.microsoft.com/en-us/o...,Web / Medio digital
+41.0,Otro,Otro,Otro,Deepseek,https://api-docs.deepseek.com/quick_s...,Web / Medio digital
+41.0,Otro,Otro,Otro,Lufthansa,https://www.businesstravelnewseurope....,Web / Medio digital
+41.0,Otro,Otro,Otro,DBank,https://www.dbresearch.com/PROD/RI-PR...,Web / Medio digital
+41.0,Otro,Otro,Otro,Challenger,https://www.challengergray.com/blog/s...,Blog corporativo
+41.0,Otro,OpenAI,Empresa tecnológica,OpenAIControles,https://x.com/OpenAI/status/197260436...,Red social
+42.0,Otro,Otro,Otro,SORA 2 en FAL,https://fal.ai/models/fal-ai/sora-2/t...,Web / Medio digital
+42.0,Otro,X/Twitter,Plataforma social,Marca de agua SORA,https://x.com/JonhernandezIA/status/1...,Red social
+42.0,Otro,X/Twitter,Plataforma social,Telecinco usa SORA,https://x.com/AIMatesanz/status/19765...,Red social
+42.0,Redes sociales,X/Twitter,Plataforma social,Video Grok XAI,https://x.com/xai/status/197560790157...,Red social
+42.0,Redes sociales,X/Twitter,Plataforma social,Contenido XAI,https://x.com/testingcatalog/status/1...,Red social
+42.0,Otro,X/Twitter,Plataforma social,Rumores Veo 3.1,https://x.com/testingcatalog/status/1...,Red social
+42.0,Otro,Meta,Empresa tecnológica,Fichaje Meta Tulloch,https://www.wsj.com/tech/ai/thinking-...,Web / Medio digital
+42.0,Modelos de IA,Google,Empresa tecnológica,Gemini Enterprise video: • Gemini at Work 2025,,Otro
+42.0,Modelos de IA,Google,Empresa tecnológica,Página Gemini Enterprise,https://cloud.google.com/gemini-enter...,Blog corporativo
+42.0,Redes sociales,OpenAI,Empresa tecnológica,OpenAI GO expansión,https://x.com/btibor91/status/1976171...,Red social
+42.0,Otro,X/Twitter,Plataforma social,Video Brad Lightcap,https://x.com/bradlightcap/status/197...,Red social
+42.0,Otro,Otro,Otro,CNN IA y trabajo,https://edition.cnn.com/2025/10/10/te...,Web / Medio digital
+42.0,Otro,X/Twitter,Plataforma social,Robot Figure 03,https://x.com/figure_robot/status/197...,Red social
+42.0,Otro,Otro,Otro,Detalles Figure 03,https://www.figure.ai/news/introducin...,Web / Medio digital
+42.0,Otro,Otro,Otro,Errores IA Deloitte,https://www.afr.com/companies/profess...,Web / Medio digital
+42.0,Otro,X/Twitter,Plataforma social,Von der Leyen AI First,https://x.com/disclosetv/status/19748...,Red social
+42.0,Regulación,Otro,Otro,Plan europeo AI First,https://www.reuters.com/world/china/e...,Web / Medio digital
+42.0,Otro,Otro,Otro,State of AI Report 2025,https://www.stateof.ai/,Web / Medio digital
+43.0,Otro,Anthropic,Empresa tecnológica,Anthropic Skills,https://www.anthropic.com/engineering...,Web / Medio digital
+43.0,Otro,Otro,Otro,Alpha Arena (IA invierte en cripto),https://nof1.ai/?s=08,Web / Medio digital
+43.0,Otro,X/Twitter,Plataforma social,Tweet Sam Altman (IA y erótica),https://x.com/sama/status/19781293445...,Red social
+43.0,Modelos de IA,OpenAI,Empresa tecnológica,Modelo espec OpenAI (NSFW),https://cdn.openai.com/spec/model-spe...,Blog corporativo
+43.0,Modelos de IA,OpenAI,Empresa tecnológica,Notas ChatGPT + Slack,https://help.openai.com/en/articles/6...,Blog corporativo
+43.0,Modelos de IA,OpenAI,Empresa tecnológica,App ChatGPT para Slack,https://intercom.help/openai/en/artic...,Web / Medio digital
+43.0,Otro,OpenAI,Empresa tecnológica,Walmart + OpenAI,https://corporate.walmart.com/news/20...,Web / Medio digital
+43.0,Modelos de IA,OpenAI,Empresa tecnológica,General USA usa ChatGPT,https://newrepublic.com/post/201939/m...,Web / Medio digital
+43.0,Otro,X/Twitter,Plataforma social,Consumo eléctrico IA (Kobeissi Letter),https://x.com/KobeissiLetter/status/1...,Red social
+43.0,Otro,Microsoft,Empresa tecnológica,Windows Copilot demo YouTube: • Copilot on Windows 11 | Meet the Computer ...,,Otro
+43.0,Otro,Microsoft,Empresa tecnológica,Windows Copilot info,https://www.microsoft.com/en-us/windo...,Web / Medio digital
+43.0,Otro,Microsoft,Empresa tecnológica,MAI-image.1 Microsoft,https://microsoft.ai/news/introducing...,Web / Medio digital
+43.0,Redes sociales,Microsoft,Empresa tecnológica,Excel fórmula IA,https://techcommunity.microsoft.com/b...,Web / Medio digital
+43.0,Otro,Otro,Otro,Pinterest filtra imágenes IA,https://80.lv/articles/pinterest-fina...,Web / Medio digital
+43.0,Otro,OpenAI,Empresa tecnológica,Tweet OpenAI Newsroom (MLK),https://x.com/OpenAINewsroom/status/1...,Red social
+43.0,Otro,Google,Empresa tecnológica,Google AI Mode,https://www.google.com/,Blog corporativo
+43.0,Otro,X/Twitter,Plataforma social,Tweet Anduril casco Eagle Eye,https://x.com/anduriltech/status/1977...,Red social
+43.0,Redes sociales,Otro,Otro,Podcast Joe Rogan con Palmer Luckey: • Joe Rogan Experience #2394 - Palmer Luckey,,Otro
+43.0,Otro,Otro,Otro,Misil autónomo Anduril: • Anduril Unveils Roadrunner & Roadrunner-M,,Otro
+43.0,Otro,Otro,Otro,Ley California chatbots IA,https://techcrunch.com/2025/10/13/cal...,Web / Medio digital
+44.0,Otro,Otro,Otro,Amazon reemplazará 600.000 empleos,https://acortar.link/D6P9yL,Web / Medio digital
+44.0,Otro,Otro,Otro,Elon Musk sobre la renta universal,https://acortar.link/KCsuDd,Web / Medio digital
+44.0,Otro,Otro,Otro,Gafas inteligentes para repartidores de Amazon,https://acortar.link/QT3QJT,Web / Medio digital
+44.0,Otro,Otro,Otro,Robot humanoide Unitree H2,https://acortar.link/S7j2PG,Web / Medio digital
+44.0,Modelos de IA,Otro,Otro,Modelo R1 de Unitree,https://www.unitree.com/R1,Web / Medio digital
+44.0,Otro,Google,Empresa tecnológica,Google AI Studio – Vibe Coding,https://aistudio.google.com/app/u/2/apps,Blog corporativo
+44.0,Otro,Otro,Otro,Lovable integra Shopify,https://acortar.link/3uoxcl,Web / Medio digital
+44.0,Modelos de IA,Anthropic,Empresa tecnológica,Claude Code disponible en web,https://www.anthropic.com/news/claude...,Web / Medio digital
+44.0,Otro,Google,Empresa tecnológica,Acuerdo Anthropic–Google Cloud,https://www.anthropic.com/news/expand...,Web / Medio digital
+44.0,Otro,Otro,Otro,Superintelligence Statement,https://superintelligence-statement.org/,Web / Medio digital
+44.0,Redes sociales,Otro,Otro,Max Tegmark presenta la iniciativa,https://acortar.link/NBxEX8,Web / Medio digital
+44.0,Otro,Otro,Otro,Informe sobre percepción pública de la IA (Future of Life Institute),https://futureoflife.org/wp-content/u...,Web / Medio digital
+44.0,Investigación,Otro,Otro,Paper sobre definición y medición de AGI,https://www.arxiv.org/pdf/2510.18212,Web / Medio digital
+44.0,Otro,OpenAI,Empresa tecnológica,OpenAI responde al bloqueo de WhatsApp,https://openai.com/index/chatgpt-what...,Blog corporativo
+44.0,Modelos de IA,OpenAI,Empresa tecnológica,Post sobre censura de Atlas (ChatGPT Browser),https://acortar.link/0Sep9Q,Web / Medio digital
+44.0,Redes sociales,X/Twitter,Plataforma social,Post sobre prompt injection en Atlas,https://x.com/p1njc70r/status/1980701...,Red social
+44.0,Redes sociales,Otro,Otro,Próximas mejoras de Atlas (equipo oficial),https://acortar.link/3b5yyx,Web / Medio digital
+44.0,Otro,OpenAI,Empresa tecnológica,OpenAI – Conocimiento de la empresa,https://openai.com/index/introducing-...,Blog corporativo
+44.0,Otro,Otro,Otro,Sora permitirá cameos con mascotas,https://acortar.link/nkFeoQ,Web / Medio digital
+44.0,Otro,Microsoft,Empresa tecnológica,Avatares de Microsoft (demo con VPN),https://copilot.microsoft.com/chats/3...,Web / Medio digital
+44.0,Otro,Otro,Otro,Adobe intentó comprar Synthesia,https://acortar.link/e8HSHQ,Web / Medio digital
+44.0,Otro,Otro,Otro,Nvidia presenta StarCloud,https://blogs.nvidia.com/blog/starclo...,Blog corporativo
+45.0,Redes sociales,Otro,Otro,Reserva del robot NEO (1X),https://www.1x.tech/order,Web / Medio digital
+45.0,Otro,Otro,Otro,Despidos en Amazon,https://acortar.link/hr82pu,Web / Medio digital
+45.0,Modelos de IA,OpenAI,Empresa tecnológica,Uso de ChatGPT en temas sensibles,https://acortar.link/IuL5iP,Web / Medio digital
+45.0,Otro,OpenAI,Empresa tecnológica,Nueva estructura de OpenAI,https://openai.com/index/built-to-ben...,Blog corporativo
+45.0,Otro,OpenAI,Empresa tecnológica,Detalles de la organización de OpenAI,https://openai.com/our-structure/,Blog corporativo
+45.0,Regulación,OpenAI,Empresa tecnológica,IPO de OpenAI (Reuters),https://acortar.link/OMMxDq,Web / Medio digital
+45.0,Otro,Otro,Otro,"Directo de Sam Altman y Jakub: • Sam, Jakub, and Wojciech on the future of ...",,Otro
+45.0,Otro,Otro,Otro,Actualización de SORA,https://acortar.link/5zl2B2,Web / Medio digital
+45.0,Otro,Otro,Otro,Demo de stitching (SORA),https://acortar.link/JulZYi,Web / Medio digital
+45.0,Otro,Google,Empresa tecnológica,Pomelli de Google,https://labs.google.com/u/0/pomelli/r...,Blog corporativo
+45.0,Otro,Google,Empresa tecnológica,Resultados de Google,https://acortar.link/dJ32G3,Web / Medio digital
+45.0,Otro,Otro,Otro,Grokipedia,https://grokipedia.com/,Web / Medio digital
+45.0,Otro,Otro,Otro,Ejemplo en Grokipedia (PS5),https://acortar.link/4LLfXu,Web / Medio digital
+45.0,Otro,Otro,Otro,Análisis de Wired sobre Grokipedia,https://acortar.link/9wgSn7,Web / Medio digital
+45.0,Otro,Otro,Otro,Conferencia GTC de Nvidia,https://acortar.link/jYsspr,Web / Medio digital
+45.0,Otro,Otro,Otro,Valor récord de Nvidia,https://acortar.link/VS9Yyu,Web / Medio digital
+45.0,Otro,Otro,Otro,Resumen de anuncios del GTC,https://acortar.link/jv765Y,Web / Medio digital
+45.0,Otro,Otro,Otro,Informe sobre adopción de IA (Wharton),https://acortar.link/UbutCo,Web / Medio digital
+45.0,Otro,Otro,Otro,Acuerdo UDIO y Universal,https://acortar.link/Yh4RfL,Web / Medio digital
+45.0,Otro,Otro,Otro,Canción con IA en Billboard,https://acortar.link/jW5QST,Web / Medio digital
+46.0,Otro,Anthropic,Empresa tecnológica,Anthropic introspección,https://transformer-circuits.pub/2025...,Web / Medio digital
+46.0,Otro,Otro,Otro,Kimi K2 Thinking,https://moonshotai.github.io/Kimi-K2/...,Web / Medio digital
+46.0,Otro,Otro,Otro,CNBC Kimi,https://www.cnbc.com/2025/11/06/aliba...,Web / Medio digital
+46.0,Otro,Otro,Otro,Hugging Face Kimi,https://huggingface.co/moonshotai/Kim...,Web / Medio digital
+46.0,Redes sociales,X/Twitter,Plataforma social,XPENG robot (1),https://x.com/kimmonismus/status/1986...,Red social
+46.0,Redes sociales,X/Twitter,Plataforma social,XPENG robot (2),https://x.com/Tslachan/status/1986290...,Red social
+46.0,Otro,Otro,Otro,Show de drones: / 16000_drones_over_liuyang_a_new_world_record,,Otro
+46.0,Otro,OpenAI,Empresa tecnológica,Juicio OpenAI (PDF),https://storage.courtlistener.com/rec...,Web / Medio digital
+46.0,Otro,X/Twitter,Plataforma social,Wes Roth tweet,https://x.com/WesRothMoney/status/198...,Red social
+46.0,Otro,X/Twitter,Plataforma social,CEO KPMG IA,https://x.com/rohanpaul_ai/status/198...,Red social
+46.0,Redes sociales,Otro,Otro,Ley IA empleos (Axios),https://www.axios.com/2025/11/05/hawl...,Web / Medio digital
+46.0,Otro,Otro,Otro,Challenger Report,https://www.challengergray.com/blog/o...,Blog corporativo
+46.0,Otro,Google,Empresa tecnológica,Google Project Suncatcher,https://research.google/blog/explorin...,Blog corporativo
+46.0,Otro,Otro,Otro,Demanda Studio Ghibli,https://coda-cj.jp/en/news/817/,Web / Medio digital
+46.0,Otro,Otro,Otro,Bytedance upscaler,https://fal.ai/models/fal-ai/bytedanc...,Web / Medio digital
+46.0,Otro,X/Twitter,Plataforma social,Rumores Nano Banana 2,https://x.com/rpnickson/status/198735...,Red social
+46.0,Otro,X/Twitter,Plataforma social,Ejemplo imágenes,https://x.com/synthwavedd/status/1987...,Red social
+46.0,Otro,X/Twitter,Plataforma social,Coca-Cola anuncio IA,https://x.com/DiscussingFilm/status/1...,Red social
+47.0,Otro,X/Twitter,Plataforma social,NotebookLM anuncio,https://x.com/NotebookLM/status/19890...,Red social
+47.0,Otro,X/Twitter,Plataforma social,Pichai reacciona,https://x.com/sundarpichai/status/198...,Red social
+47.0,Modelos de IA,Google,Empresa tecnológica,Gemini canvas,https://gemini.google.com/canvas,Blog corporativo
+47.0,Modelos de IA,Google,Empresa tecnológica,Gemini canvas 2,https://gemini.google.com/canvas,Blog corporativo
+47.0,Otro,OpenAI,Empresa tecnológica,CTO Intel OpenAI,https://www.tomshardware.com/tech-ind...,Web / Medio digital
+47.0,Otro,Meta,Empresa tecnológica,Lecun deja Meta,https://www.ft.com/content/c586eb77-a...,Web / Medio digital
+47.0,Otro,Otro,Otro,Marble worlds,https://marble.worldlabs.ai/?tab=real...,Web / Medio digital
+47.0,Otro,Otro,Otro,Worldlabs info,https://www.worldlabs.ai/,Web / Medio digital
+47.0,Otro,Google,Empresa tecnológica,SIMA 2 Google,https://deepmind.google/blog/sima-2-a...,Blog corporativo
+47.0,Otro,Otro,Otro,Voces ElevenLabs,https://variety.com/2025/digital/news...,Web / Medio digital
+47.0,Otro,Otro,Otro,Marketplace ElevenLabs,https://elevenlabs.io/iconic-marketpl...,Web / Medio digital
+47.0,Otro,Otro,Otro,Canción IA Billboard,https://www.whiskeyriff.com/2025/11/0...,Web / Medio digital
+47.0,Otro,Otro,Otro,Datos música IA,https://newsroom-deezer.com/2025/11/d...,Web / Medio digital
+47.0,Otro,X/Twitter,Plataforma social,2wai anuncio,https://x.com/CalumWorthy/status/1988...,Red social
+47.0,Otro,OpenAI,Empresa tecnológica,Chat compartido demo,https://chatgpt.com/gg/v/691a1da05f14...,Web / Medio digital
+47.0,Modelos de IA,OpenAI,Empresa tecnológica,GPT5.1 info,https://openai.com/index/gpt-5-1-for-...,Blog corporativo
+48.0,Otro,X/Twitter,Plataforma social,Clip viral Yolanda Díaz,https://x.com/diostuitero/status/1990...,Red social
+48.0,Otro,Otro,Otro,Noticia BBC sobre amenaza de IA,https://www.bbc.com/news/articles/cpq...,Web / Medio digital
+48.0,Modelos de IA,Otro,Otro,Paper sobre modelo copiando su propio código,https://arxiv.org/pdf/2412.04984,Web / Medio digital
+48.0,Otro,Otro,Otro,Noticia Time sobre trampas de IA en ajedrez,https://time.com/7259395/ai-chess-che...,Web / Medio digital
+48.0,Otro,X/Twitter,Plataforma social,Tweet Marc Vidal sobre Red Teams,https://x.com/marcvidal/status/199045...,Red social
+48.0,Redes sociales,Otro,Otro,Noticia La Sexta sobre Tasa Trump,https://www.lasexta.com/noticias/naci...,Web / Medio digital
+48.0,Otro,Otro,Otro,Reporte despidos Challenger Gray & Christmas,https://www.challengergray.com/blog/o...,Blog corporativo
+48.0,Regulación,Otro,Otro,Noticia TechCrunch Jeff Bezos Project Prometheus,https://techcrunch.com/2025/11/17/jef...,Web / Medio digital
+48.0,Regulación,Otro,Otro,LinkedIn Project Prometheus: / about,,Otro
+48.0,Modelos de IA,OpenAI,Empresa tecnológica,Anuncio OpenAI GPT-5.1 y Codex Max,https://openai.com/index/gpt-5-1-code...,Blog corporativo
+48.0,Otro,X/Twitter,Plataforma social,Tweet Lovable Aniversario/200M,https://x.com/Lovable/status/19908129...,Red social
+48.0,Otro,Meta,Empresa tecnológica,Blog Meta lanzamiento SAM 3,https://ai.meta.com/blog/segment-anyt...,Blog corporativo
+48.0,Otro,Meta,Empresa tecnológica,Playground Demo SAM 3,https://www.aidemos.meta.com/segment-...,Web / Medio digital
+48.0,Otro,Otro,Otro,Noticia TechCrunch Amazon Prime resúmenes IA,https://techcrunch.com/2025/11/19/ama...,Web / Medio digital
+48.0,Investigación,OpenAI,Empresa tecnológica,Paper OpenAI sobre aceleración científica,https://arxiv.org/pdf/2511.16072,Web / Medio digital
+49.0,Modelos de IA,Anthropic,Empresa tecnológica,Claude Opus 4.5,https://www.anthropic.com/news/claude...,Web / Medio digital
+49.0,Otro,Otro,Otro,Genesis Mission Estados Unidos,https://www.whitehouse.gov/presidenti...,Web / Medio digital
+49.0,Modelos de IA,OpenAI,Empresa tecnológica,Shopping Research de ChatGPT,https://openai.com/index/chatgpt-shop...,Blog corporativo
+49.0,Otro,Otro,Otro,Despidos en Clifford Chance,https://www.theguardian.com/technolog...,Web / Medio digital
+49.0,Otro,Otro,Otro,Despidos en HP por IA,https://www.fox13news.com/news/hp-sla...,Web / Medio digital
+49.0,Otro,Otro,Otro,Informe MIT sobre automatización,https://iceberg.mit.edu/report.pdf,Web / Medio digital
+49.0,Otro,Otro,Otro,Informe McKinsey sobre automatización,https://www.mckinsey.com/mgi/our-rese...,Web / Medio digital
+49.0,Redes sociales,Otro,Otro,FLUX 2 de Blackforest Labs,https://playground.bfl.ai/image/generate,Web / Medio digital
+49.0,Otro,Otro,Otro,Podcast de Ilya Sutskever: • Ilya Sutskever – We're moving from the age...,,Otro
+50.0,Modelos de IA,OpenAI,Empresa tecnológica,"Reacción de OpenAI a Gemini 3, Mashable",https://mashable.com/article/openai-c...,Web / Medio digital
+50.0,Modelos de IA,OpenAI,Empresa tecnológica,"Rumores GPT 5.2, The Verge",https://www.theverge.com/report/83885...,Web / Medio digital
+50.0,Modelos de IA,Google,Empresa tecnológica,"Gemini Live, cambio de aceite viral",https://x.com/kimmonismus/status/1995...,Red social
+50.0,Modelos de IA,OpenAI,Empresa tecnológica,ChatGPT pricing y comparativa de planes,https://openai.com/business/chatgpt-p...,Blog corporativo
+50.0,Modelos de IA,Google,Empresa tecnológica,"Deep Think para Gemini 3 Pro, demo",https://x.com/GeminiApp/status/199665...,Red social
+50.0,Redes sociales,Google,Empresa tecnológica,Deep Think explicado por Google,https://blog.google/products/gemini/g...,Blog corporativo
+50.0,Otro,Otro,Otro,DeepSeek V3.2,https://huggingface.co/deepseek-ai/De...,Web / Medio digital
+50.0,Otro,Otro,Otro,DeepSeek pricing,https://api-docs.deepseek.com/quick_s...,Web / Medio digital
+50.0,Otro,Otro,Otro,DeepSeek web,https://chat.deepseek.com/,Web / Medio digital
+50.0,Otro,Meta,Empresa tecnológica,"IA entrenada con llamadas de presos, MIT Technology Review",https://www.technologyreview.com/2025...,Web / Medio digital
+50.0,Otro,Microsoft,Empresa tecnológica,Microsoft VibeVoice Realtime 0.5B,https://huggingface.co/microsoft/Vibe...,Web / Medio digital
+50.0,Modelos de IA,X/Twitter,Plataforma social,Runway 4.5 video modelo,https://x.com/runwayml/status/1995493...,Red social
+50.0,Otro,X/Twitter,Plataforma social,Kling o1 ejemplos,https://x.com/Kling_ai/status/1995506...,Red social
+50.0,Otro,X/Twitter,Plataforma social,Kling 2.6 con audio,https://x.com/Kling_ai/status/1996491...,Red social
+50.0,Otro,Otro,Otro,Challenger Report de empleo Estados Unidos,https://www.challengergray.com/blog/c...,Blog corporativo
+50.0,Redes sociales,Otro,Otro,AI Safety Index MIT Max Tegmark,https://futureoflife.org/ai-safety-in...,Web / Medio digital
+50.0,Otro,X/Twitter,Plataforma social,Declaraciones de Demis Hassabis sobre AGI,https://x.com/slow_developer/status/1...,Red social
+52.0,Modelos de IA,Google,Empresa tecnológica,​​Gemini 3 Flash,https://blog.google/products/gemini/g...,Blog corporativo
+52.0,Modelos de IA,Google,Empresa tecnológica,Deep Research (Gemini),https://gemini.google.com/app/8316a82...,Blog corporativo
+52.0,Otro,Google,Empresa tecnológica,Gmail Agent (CC),https://x.com/GoogleLabs/status/20009...,Red social
+52.0,Modelos de IA,OpenAI,Empresa tecnológica,ChatGPT Apps,https://chatgpt.com/apps,Web / Medio digital
+52.0,Investigación,Otro,Otro,METR benchmark,https://metr.org/blog/2025-03-19-meas...,Blog corporativo
+52.0,Otro,Otro,Otro,ARC Prize – o3 breakthrough,https://arcprize.org/blog/oai-o3-pub-...,Blog corporativo
+52.0,Otro,Otro,Otro,ARC Prize leaderboard,https://arcprize.org/leaderboard,Web / Medio digital
+52.0,Modelos de IA,Google,Empresa tecnológica,Gemini playing Pokémon,https://x.com/GoogleAIStudio/status/2...,Red social
+52.0,Redes sociales,Otro,Otro,Robots 1X (NEO),https://acortar.link/FX20nE,Web / Medio digital
+52.0,Otro,OpenAI,Empresa tecnológica,OpenAI signing (Glen Coates),https://x.com/glencoates/status/20006...,Red social
+52.0,Otro,Otro,Otro,Amazon Barcelona layoffs,https://acortar.link/u8b2Uf,Web / Medio digital
+52.0,Otro,X/Twitter,Plataforma social,Mustafa Suleyman (job impact),https://x.com/PeterDiamandis/status/2...,Red social
+52.0,Otro,X/Twitter,Plataforma social,Joshua Bengio (AI warning),https://x.com/slow_developer/status/2...,Red social
+52.0,Regulación,OpenAI,Empresa tecnológica,Lawsuit against OpenAI,https://acortar.link/cSFYAG,Web / Medio digital
+52.0,Otro,Otro,Otro,Amazon “Ask this Book”,https://www.aboutamazon.com/news/book...,Web / Medio digital
+52.0,Otro,Meta,Empresa tecnológica,Meta SAM Audio,https://aidemos.meta.com/segment-anyt...,Web / Medio digital
+52.0,Modelos de IA,X/Twitter,Plataforma social,Xiaomi LLM,https://x.com/ArtificialAnlys/status/...,Red social
+51.0,Otro,Otro,Otro,ARC AGI 2 leaderboard,https://arcprize.org/leaderboard,Web / Medio digital
+51.0,Otro,Google,Empresa tecnológica,Blog Google DeepMind SIMA 2,https://acortar.link/TWMJR4,Blog corporativo
+51.0,Investigación,Otro,Otro,Paper SIMA 2 auto mejora arXiv,https://arxiv.org/pdf/2512.04797,Web / Medio digital
+51.0,Otro,OpenAI,Empresa tecnológica,Acuerdo Disney y OpenAI Sora,https://acortar.link/Pc7GD1,Web / Medio digital
+51.0,Otro,Otro,Otro,Cuenta GO en LATAM Nick Turley,https://acortar.link/oUXyb5,Web / Medio digital
+51.0,Otro,OpenAI,Empresa tecnológica,Fichaje CEO Slack por OpenAI TechCrunch,https://acortar.link/UosGHl,Web / Medio digital
+51.0,Otro,OpenAI,Empresa tecnológica,Artículo Wired impacto laboral IA OpenAI,https://acortar.link/WLxNwt,Web / Medio digital
+51.0,Redes sociales,Otro,Otro,Acuerdo xAI y El Salvador educación,https://acortar.link/dn5LSL,Web / Medio digital
+51.0,Modelos de IA,Otro,Otro,Primer LLM entrenado en el espacio Nvidia,https://acortar.link/B6w54A,Web / Medio digital
+51.0,Otro,Otro,Otro,Trump marco federal regulación IA,https://acortar.link/B6w54A,Web / Medio digital
+51.0,Otro,Otro,Otro,Tuit secretario de guerra sobre IA,https://acortar.link/5Eo1Zk,Web / Medio digital
+51.0,Otro,Otro,Otro,Comité IA Pentágono DefenseScoop,https://acortar.link/8BCKSE,Web / Medio digital
+51.0,Modelos de IA,Otro,Otro,Modelo entrenado con textos Londres 1800 Reddit,https://acortar.link/99Yhuz,Web / Medio digital
